@@ -69,7 +69,7 @@ Currently in 2nd year <br><hr>
 <h3>B.Sc. In Data Science and Programming (Duel Degree)</h3>
 <img alt="iitm-logo" src="https://user-images.githubusercontent.com/96379756/146984436-13ba2603-6b8b-4c37-9659-c7b9857fa8ae.png">
 
-<p>🎗Currently enrolled in Foundation Level in B.Sc. In Data Science and Programming from IIT Madras.</p>
+<p>🎗Currently enrolled in B.Sc. In Data Science and Programming from IIT Madras.<br>🎗Completed Foundation Level, moving on to Diploma Level.</p>
 <hr><br>
 <img alt="kvs logo" height="150" width="200" align="right" src="https://user-images.githubusercontent.com/96379756/146983457-576dfcc0-c3b3-47b8-903f-20f445ca1ccf.jpg">
 <h3>Schooling</h3>
@@ -85,7 +85,7 @@ Currently in 2nd year <br><hr>
 2. Sherlock Holmes by Athur Conan Doyle 🤠   <br>
 3. Famous Five by Enid Blyton 🚲 <br>
 4. To Kill a Mocking Bird by Harper Lee 🕊 <br>
-5. 101 Short Stories by O'Henry ⭐ <br>
+5. Thousand Splendid Sun by Khaled Hossaini ☀ <br>
     </p>
 <h3> 🎨Painting </h3>
 1. Pencil Sketch<br>
