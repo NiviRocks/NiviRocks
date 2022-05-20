@@ -4,8 +4,7 @@
 <hr><hr>
 <h3 align="center" >Aspiring Data Scientist 📈| Pursuing B.Tech. Computer Science Engineering 💻 | Learning ML 📌 | Novel Lover 📚 | Animal Lover 🐶 </h3>
 <hr><hr>
-
-<img width="1200" height="450" alt="readme" src= "https://user-images.githubusercontent.com/96379756/169338049-1df813ba-e68c-46c6-b93f-440d69f2ea8f.png"><hr>
+<img height="350" width="1000" alt="banner" src= "https://user-images.githubusercontent.com/96379756/169536609-a31233da-5983-493a-80db-7d3f5d908b7d.png"><hr>
 <img alt="GitHub" src="https://img.shields.io/github/license/NiviRocks/NiviRocks.github.io?color=ed367a&logo=Github&logoColor=%23fbd3e2">
 <hr>
 <h2>🔗 Links to Check Out </h2>
@@ -20,8 +19,8 @@
 &nbsp; </div><hr> 
         
 <div align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=NiviRocks&theme=jolly&show_icons=true&count_private=true&bg_color=3b0519&icon_color=fef7f9" height="180"" /> &nbsp;
- <img width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=NiviRocks&theme=dark&date_format=j%20M%5B%20Y%5D&ring=FE0C65&currStreakLabel=F0558E&background=3B0519" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=NiviRocks&theme=jolly&show_icons=true&count_private=true&bg_color=3b0519&icon_color=fef7f9"  /> &nbsp;
+ <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=NiviRocks&theme=dark&date_format=j%20M%5B%20Y%5D&ring=FE0C65&currStreakLabel=F0558E&background=3B0519" />
 </div> <hr> 
 <h2> 🏆 Trophies </h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiviRocks" alt="NiviRocks" /></a> </p><hr>
