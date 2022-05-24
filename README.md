@@ -23,7 +23,7 @@
  <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=NiviRocks&theme=dark&date_format=j%20M%5B%20Y%5D&ring=FE0C65&currStreakLabel=F0558E&background=3B0519" />
 </div> <hr> 
 <h2> 🏆 Trophies </h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiviRocks&theme=dark_lover" alt="NiviRocks" /></a> </p><hr>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiviRocks&theme=dark_lover&no-bg=true&column=6" alt="NiviRocks" /></a> </p><hr>
 <div align="center">
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&&langs_count=8&layout=compact&bg_color=3b0519&theme=jolly" /> &nbsp;
  <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=NiviRocks&theme=dracula&bg_color=3b0519" alt="ayushkumar731" />
