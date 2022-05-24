@@ -25,7 +25,7 @@
 <h2> 🏆 Trophies </h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiviRocks&theme=dark_lover" alt="NiviRocks" /></a> </p><hr>
 <div align="center">
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&&langs_count=8&layout=compact&bg_color=3b0519&theme=jolly" /> &nbsp;
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&&langs_count=8&layout=compact&bg_color=3b0519&theme=jolly" /> &nbsp;
  <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=NiviRocks&theme=dracula&bg_color=3b0519" alt="ayushkumar731" />
 </div> <hr>
 <h2>🚧Skill Set </h2>
