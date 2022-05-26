@@ -91,7 +91,13 @@ Currently in 2nd year <br><hr>
 1. Pencil Sketch<br>
 2. Water Painting
 </details><hr>
-    
+<h3> 🔝 Top Repository </h3>
+<a href="https://github.com/NiviRocks/DataStructureAlgorithms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiviRocks&repo=DataStructureAlgorithms&theme=synthwave&show_icons=true" />
+</a>
+<a href="https://github.com/NiviRocks/GraphAlgos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiviRocks&repo=GraphAlgos&theme=synthwave&show_icons=true" />
+</a><hr>
 <h2> Acknowledgements </h2><hr>
 
  - <a href="https://awesomeopensource.com/project/elangosundar/awesome-README-templates" > Awesome README Templates </a>
