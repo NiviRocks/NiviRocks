@@ -97,6 +97,8 @@ Currently in 2nd year <br><hr>
  - <a href="https://awesomeopensource.com/project/elangosundar/awesome-README-templates" > Awesome README Templates </a>
  - <a href="https://github.com/matiassingers/awesome-readme">Awesome README</a>
  - <a href="https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project" > How to write a Good readme</a><hr>
+ - <a href="https://shields.io">Sheilds.io</a>
+ - <a href="https://github.com/anuraghazra/github-readme-stats">Github-readme-stats</a>
 
 
 <h2>Authors</h2> <hr>
