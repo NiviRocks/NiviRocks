@@ -52,8 +52,8 @@
     <tr>
         <td> Visual Studio Code </td>
         <td><img align="center" alt="Visual Studio Code" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></td>
-        <td>Java  </td>
-        <td><img  align="center" alt="Java" width="50" height="50" src="https://1000logos.net//java-logo" /></td>
+        <td>Java [Learning]  </td>
+        <td><img  align="center" alt="Java" width="50" height="50" src="https://user-images.githubusercontent.com/96379756/177587242-c31cf239-3878-447c-b9b9-7bb7f1a96c30.png" /></td>
     </tr>
     <tr>
         <td>GitHub </td>
