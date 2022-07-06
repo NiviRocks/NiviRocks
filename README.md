@@ -4,7 +4,9 @@
 <hr><hr>
 <h3 align="center" >Aspiring Data Scientist 📈| Pursuing B.Tech. Computer Science Engineering 💻 | Learning ML 📌 | Novel Lover 📚 | Animal Lover 🐶 </h3>
 <hr><hr>
+<!-- BANNER --!>
 <img height="350" width="1000" alt="banner" src= "https://user-images.githubusercontent.com/96379756/169536609-a31233da-5983-493a-80db-7d3f5d908b7d.png"><hr>
+<!-- SHEILDS --!>
 <img alt="GitHub" src="https://img.shields.io/github/license/NiviRocks/NiviRocks.github.io?color=ed367a&logo=Github&logoColor=%23fbd3e2">
 <hr>
 <h2>🔗 Links to Check Out </h2>
@@ -19,14 +21,19 @@
 &nbsp; </div><hr> 
         
 <div align="center">
+<!-- STATS --!>
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=NiviRocks&theme=jolly&show_icons=true&count_private=true&bg_color=3b0519&icon_color=fef7f9"  /> &nbsp;
+<!-- STREAKS --!>
  <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=NiviRocks&theme=dark&date_format=j%20M%5B%20Y%5D&ring=FE0C65&currStreakLabel=F0558E&background=3B0519" />
 </div> <hr> 
-<h2> 🏆 Trophies </h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiviRocks&theme=dark_lover&no-bg=true&column=6" alt="NiviRocks" /></a> </p><hr>
-<div align="center">
+<!-- <h2> 🏆 Trophies </h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiviRocks&theme=dark_lover&no-bg=true&column=6" alt="NiviRocks" /></a> </p> --!> 
+
+<div align="center"> 
+<!-- MOST USED LANGUAGE --!>
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&&langs_count=8&layout=compact&bg_color=3b0519&theme=jolly" /> &nbsp;
- <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=NiviRocks&theme=dracula&bg_color=3b0519" alt="NiviRocks" />
+<!-- ACTIVITY GRAPH --!>
+ <!-- <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=NiviRocks&theme=dracula&bg_color=3b0519" alt="NiviRocks" /> --!>
 </div> <hr>
 <h2>🚧Skill Set </h2>
 <table>
@@ -45,8 +52,8 @@
     <tr>
         <td> Visual Studio Code </td>
         <td><img align="center" alt="Visual Studio Code" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></td>
-        <td>Git  </td>
-        <td><img  align="center" alt="Git" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></td>
+        <td>Java  </td>
+        <td><img  align="center" alt="Java" width="50" height="50" src="https://1000logos.net//java-logo" /></td>
     </tr>
     <tr>
         <td>GitHub </td>
@@ -54,6 +61,10 @@
         <td>C Programming </td>
         <td><img align="center" alt="C" width="50 height="50" src="https://user-images.githubusercontent.com/96379756/169338552-64ed131c-cda6-4b20-bb26-f69882aa92e2.png" /> </td>
     </tr>
+    <tr>
+    <!-- <td>Git  </td>
+        <td><img  align="center" alt="Git" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></td> --!>
+      </tr>
  </table>
 <hr>
 <details><summary>
