@@ -106,6 +106,9 @@ Currently in 2nd year <br><hr>
 <a href="https://github.com/NiviRocks/DataStructureAlgorithms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiviRocks&repo=DataStructureAlgorithms&theme=synthwave&show_icons=true" />
 </a>
+<a href="https://github.com/NiviRocks/NiviRocks.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiviRocks&repo=NiviRocks.github.io&theme=synthwave&show_icons=true" />
+</a>
 <a href="https://github.com/NiviRocks/GraphAlgos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiviRocks&repo=GraphAlgos&theme=synthwave&show_icons=true" />
 </a><hr>
