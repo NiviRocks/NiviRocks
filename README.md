@@ -90,13 +90,14 @@ Currently in 2nd year <br><hr>
 <hr>
 <details><summary><h2>⚽ Hobbies </h2></summary>
 <h3> 📚 Novel Reading </h3>
-<h4>🎀Some of my best reading experiences are from:</h4><br>
+<h4>🎀My Best Reading Experiences </h4><br>
 <p>
 1. Harry Potter Series by J.K.Rowling 🧙‍♂️ <br>
 2. Sherlock Holmes by Athur Conan Doyle 🤠   <br>
 3. Famous Five by Enid Blyton 🚲 <br>
 4. To Kill a Mocking Bird by Harper Lee 🕊 <br>
 5. Thousand Splendid Sun by Khaled Hossaini ☀ <br>
+6. The Monk Who Sold His Ferrari 🛶 <br>
     </p>
 <h3> 🎨Painting </h3>
 1. Pencil Sketch<br>
