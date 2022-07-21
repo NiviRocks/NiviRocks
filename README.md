@@ -85,8 +85,8 @@ Currently in 2nd year <br><hr>
 <img alt="kvs logo" height="150" width="200" align="right" src="https://user-images.githubusercontent.com/96379756/146983457-576dfcc0-c3b3-47b8-903f-20f445ca1ccf.jpg">
 <h3>Schooling</h3>
 
-<p>🎗Completed 10+2 level from Kendriya Vidyalaya No.1 Saltlake, Kolkata<br>
-    🎗Scored 94.6 % in 12th boards.</p></details>
+<p>🎗Completed 10+2 level from Kendriya Vidyalaya No.1 Saltlake, Kolkata (year 2020) <br> 
+    🎗Scored 94.6 % in 12th boards; CBSE Board.</p></details>
 <hr>
 <details><summary><h2>⚽ Hobbies </h2></summary>
 <h3> 📚 Novel Reading </h3>
