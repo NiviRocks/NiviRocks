@@ -76,11 +76,11 @@
 <p>
 🎗Pursuing B.Tech in Computer Science Engineering from Meghand Saha Institute of Technology, Kolkata, West Bengal.<br>
     🎗Batch:-2020-2024</p>
-Currently in 2nd year <br><hr>
+Currently in 3rd year <br><hr>
 <h3>B.Sc. In Data Science and Programming (Duel Degree)</h3>
 <img alt="iitm-logo" src="https://user-images.githubusercontent.com/96379756/146984436-13ba2603-6b8b-4c37-9659-c7b9857fa8ae.png">
 
-<p>🎗Currently enrolled in B.Sc. In Data Science and Programming from IIT Madras.<br>🎗Completed Foundation Level, moving on to Diploma Level.</p>
+<p>🎗Currently enrolled in B.Sc. In Data Science and Programming from IIT Madras.<br>🎗Completed Foundation Level with 8.8 CGPA, moving on to Diploma Level.</p>
 <hr><br>
 <img alt="kvs logo" height="150" width="200" align="right" src="https://user-images.githubusercontent.com/96379756/146983457-576dfcc0-c3b3-47b8-903f-20f445ca1ccf.jpg">
 <h3>Schooling</h3>
