@@ -8,6 +8,8 @@
 <img height="350" width="1000" alt="banner" src= "https://user-images.githubusercontent.com/96379756/169536609-a31233da-5983-493a-80db-7d3f5d908b7d.png"><hr>
 <!-- SHEILDS --!>
 <img alt="GitHub" src="https://img.shields.io/github/license/NiviRocks/NiviRocks.github.io?color=ed367a&logo=Github&logoColor=%23fbd3e2">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/NiviRocks/NiviRocks?color=grey&logo=github">
+
 <hr>
 <h2>🔗 Links to Check Out </h2>
 <div aling="center">
