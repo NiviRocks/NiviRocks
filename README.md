@@ -9,7 +9,7 @@
 <!-- SHEILDS --!>
 <img alt="GitHub" src="https://img.shields.io/github/license/NiviRocks/NiviRocks.github.io?color=ed367a&logo=Github&logoColor=%23fbd3e2">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/NiviRocks/NiviRocks?color=grey&logo=github">
-
+<img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/NiviRocks/NiviRocks?logo=github">
 <hr>
 <h2>🔗 Links to Check Out </h2>
 <div aling="center">
