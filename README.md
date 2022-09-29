@@ -27,33 +27,33 @@
 <table>
     <tr>
         <td>Python  </td>
-        <td><img align="center" width="50" height="50" alt="python" src="https://user-images.githubusercontent.com/96379756/147038109-5a4acce6-3b85-4eb9-b3b2-fdfb1f5fd81c.jpg"></td>
+        <td><img align="center" width="70" height="70" alt="python" src="https://user-images.githubusercontent.com/96379756/147038109-5a4acce6-3b85-4eb9-b3b2-fdfb1f5fd81c.jpg"></td>
         <td>R Programming [Learning]</td>
-        <td><img align="center" width="50" height="50" alt="r prog" src="https://user-images.githubusercontent.com/96379756/147038105-5900bfd8-4550-4c6c-8f44-b09b3aa00baf.jpg"></td>
+        <td><img align="center"  width="70" height="70" alt="r prog" src="https://user-images.githubusercontent.com/96379756/147038105-5900bfd8-4550-4c6c-8f44-b09b3aa00baf.jpg"></td>
         <td>Object Oriented Programming</td>
-        <td><img align="center" width="50" height="50" alt="OOP" src="https://user-images.githubusercontent.com/96379756/193032762-c499cdb8-3524-41cf-bc89-3b2a7be3f33f.png"></td>
+        <td><img align="center"  width="70" height="70" alt="OOP" src="https://user-images.githubusercontent.com/96379756/193032762-c499cdb8-3524-41cf-bc89-3b2a7be3f33f.png"></td>
     </tr>
     <tr>
         <td>RDBMS - MySQL </td>
-        <td><img align="center" src="https://user-images.githubusercontent.com/96379756/147041148-d043a3d9-1588-418a-85c3-4a3a2472e480.png" width="50" height="50" alt="mysql" ></td>
+        <td><img align="center" src="https://user-images.githubusercontent.com/96379756/147041148-d043a3d9-1588-418a-85c3-4a3a2472e480.png"  width="70" height="70" alt="mysql" ></td>
         <td>HTML5 </td>
-        <td><img align="center" src="https://user-images.githubusercontent.com/96379756/147041217-54a4d425-78ea-41c2-9f6a-249b867814e7.jpg" width="50" height="50" alt="html5"></td>
+        <td><img align="center" src="https://user-images.githubusercontent.com/96379756/147041217-54a4d425-78ea-41c2-9f6a-249b867814e7.jpg"  width="70" height="70" alt="html5"></td>
     </tr>
     <tr>
         <td> Visual Studio Code </td>
-        <td><img align="center" alt="Visual Studio Code" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></td>
+        <td><img align="center" alt="Visual Studio Code"  width="70" height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></td>
         <td>Java [Learning]  </td>
-        <td><img  align="center" alt="Java" width="50" height="50" src="https://user-images.githubusercontent.com/96379756/177587242-c31cf239-3878-447c-b9b9-7bb7f1a96c30.png" /></td>
+        <td><img  align="center" alt="Java"  width="70" height="70" src="https://user-images.githubusercontent.com/96379756/177587242-c31cf239-3878-447c-b9b9-7bb7f1a96c30.png" /></td>
     </tr>
     <tr>
         <td>GitHub </td>
-        <td><img  align="center" alt="GitHub" width="50" height="50" src="https://user-images.githubusercontent.com/96379756/147045628-c81a32e6-121d-4fb1-b5c9-703a64425849.png" /></td>
+        <td><img  align="center" alt="GitHub" width="70" height="70" src="https://user-images.githubusercontent.com/96379756/147045628-c81a32e6-121d-4fb1-b5c9-703a64425849.png" /></td>
         <td>C Programming </td>
-        <td><img align="center" alt="C" width="50 height="50" src="https://user-images.githubusercontent.com/96379756/169338552-64ed131c-cda6-4b20-bb26-f69882aa92e2.png" /> </td>
+        <td><img align="center" alt="C" width="70" height="70" src="https://user-images.githubusercontent.com/96379756/169338552-64ed131c-cda6-4b20-bb26-f69882aa92e2.png" /> </td>
     </tr>
     <tr>
     <!-- <td>Git  </td>
-        <td><img  align="center" alt="Git" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></td> --!>
+        <td><img  align="center" alt="Git" width="70" height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></td> --!>
       </tr>
  </table>
 <hr>
