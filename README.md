@@ -41,10 +41,12 @@
 <h2>🚧Skill Set </h2>
 <table>
     <tr>
-        <td>OOP Python  </td>
+        <td>Python  </td>
         <td><img align="center" width="50" height="50" alt="python" src="https://user-images.githubusercontent.com/96379756/147038109-5a4acce6-3b85-4eb9-b3b2-fdfb1f5fd81c.jpg"></td>
         <td>R Programming [Learning]</td>
         <td><img align="center" width="50" height="50" alt="r prog" src="https://user-images.githubusercontent.com/96379756/147038105-5900bfd8-4550-4c6c-8f44-b09b3aa00baf.jpg"></td>
+        <td>Object Oriented Programming</td>
+        <td><img align="center" width="50" height="50" alt="r prog" src="https://user-images.githubusercontent.com/96379756/193032762-c499cdb8-3524-41cf-bc89-3b2a7be3f33f.png"></td>
     </tr>
     <tr>
         <td>RDBMS - MySQL </td>
