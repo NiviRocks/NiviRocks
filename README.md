@@ -22,22 +22,7 @@
 &nbsp;
 <a href="https://www.codechef.com/users/nibedita_chk"><img src="https://user-images.githubusercontent.com/96379756/169338377-223ffa25-4eb9-48fb-a135-033c0740587d.jpg" height="30" width="10%"></a>
 &nbsp; </div><hr> 
-        
-<div align="center">
-<!-- STATS --!>
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=NiviRocks&theme=jolly&show_icons=true&count_private=true&bg_color=3b0519&icon_color=fef7f9"  /> &nbsp;
-<!-- STREAKS --!>
- <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=NiviRocks&theme=dark&date_format=j%20M%5B%20Y%5D&ring=FE0C65&currStreakLabel=F0558E&background=3B0519" />
-</div> <hr> 
-<!-- <h2> 🏆 Trophies </h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiviRocks&theme=dark_lover&no-bg=true&column=6" alt="NiviRocks" /></a> </p> --!> 
 
-<div align="center"> 
-<!-- MOST USED LANGUAGE --!>
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&&langs_count=8&layout=compact&bg_color=3b0519&theme=jolly" /> &nbsp;
-<!-- ACTIVITY GRAPH --!>
- <!-- <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=NiviRocks&theme=dracula&bg_color=3b0519" alt="NiviRocks" /> --!>
-</div> <hr>
 <h2>🚧Skill Set </h2>
 <table>
     <tr>
@@ -72,6 +57,22 @@
       </tr>
  </table>
 <hr>
+      
+<div align="center">
+<!-- STATS --!>
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=NiviRocks&theme=jolly&show_icons=true&count_private=true&bg_color=3b0519&icon_color=fef7f9"  /> &nbsp;
+<!-- STREAKS --!>
+ <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=NiviRocks&theme=dark&date_format=j%20M%5B%20Y%5D&ring=FE0C65&currStreakLabel=F0558E&background=3B0519" />
+</div> <hr> 
+<!-- <h2> 🏆 Trophies </h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiviRocks&theme=dark_lover&no-bg=true&column=6" alt="NiviRocks" /></a> </p> --!> 
+
+<div align="center"> 
+<!-- MOST USED LANGUAGE --!>
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&&langs_count=8&layout=compact&bg_color=3b0519&theme=jolly" /> &nbsp;
+<!-- ACTIVITY GRAPH --!>
+ <!-- <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=NiviRocks&theme=dracula&bg_color=3b0519" alt="NiviRocks" /> --!>
+</div> <hr>
 <details><summary>
 <h2>📖 EDUCATION </h2></summary>
 <hr>
