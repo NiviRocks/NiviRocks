@@ -31,7 +31,7 @@
         <td>R Programming [Learning]</td>
         <td><img align="center" width="50" height="50" alt="r prog" src="https://user-images.githubusercontent.com/96379756/147038105-5900bfd8-4550-4c6c-8f44-b09b3aa00baf.jpg"></td>
         <td>Object Oriented Programming</td>
-        <td><img align="center" width="50" height="50" alt="r prog" src="https://user-images.githubusercontent.com/96379756/193032762-c499cdb8-3524-41cf-bc89-3b2a7be3f33f.png"></td>
+        <td><img align="center" width="50" height="50" alt="OOP" src="https://user-images.githubusercontent.com/96379756/193032762-c499cdb8-3524-41cf-bc89-3b2a7be3f33f.png"></td>
     </tr>
     <tr>
         <td>RDBMS - MySQL </td>
@@ -57,7 +57,14 @@
       </tr>
  </table>
 <hr>
-      
+<h2>:pushpin:Experience  </h2>
+<table>
+    <tr> 
+        <td> Computer Vision </td>
+        <td> <img align="center" alt="CompVision" width="100" height="100" src="https://user-images.githubusercontent.com/96379756/193036069-248d25a1-33ea-4f18-a2e2-8f4ae97251f6.png"> </td>
+    </tr>
+<table>        
+
 <div align="center">
 <!-- STATS --!>
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=NiviRocks&theme=jolly&show_icons=true&count_private=true&bg_color=3b0519&icon_color=fef7f9"  /> &nbsp;
