@@ -64,7 +64,7 @@
         <td> <img align="center" alt="CompVision" width="100" height="100" src="https://user-images.githubusercontent.com/96379756/193036069-248d25a1-33ea-4f18-a2e2-8f4ae97251f6.png"> </td>
     </tr>
 <table>        
-
+<hr>
 <div align="center">
 <!-- STATS --!>
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=NiviRocks&theme=jolly&show_icons=true&count_private=true&bg_color=3b0519&icon_color=fef7f9"  /> &nbsp;
