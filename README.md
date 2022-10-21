@@ -23,8 +23,8 @@
 <a href="https://www.codechef.com/users/nibedita_chk"><img src="https://user-images.githubusercontent.com/96379756/169338377-223ffa25-4eb9-48fb-a135-033c0740587d.jpg" height="30" width="10%"></a>
 &nbsp; </div><hr> 
 
-<h2>🚧 Skill Set --></h2>
-<h2>⛑ Hard Skills</h2>
+<h2>🚧 Skill Set </h2>
+<details><summary><h2>⛑ Hard Skills</h2></summary>
 <table>
     <tr>
         <td>Mathematics</td>
@@ -36,8 +36,8 @@
         <td>Object Oriented Programming</td>
         <td><img align="center"  width="70" height="70" alt="OOP" src="https://user-images.githubusercontent.com/96379756/197255538-8f8a6cae-6b96-42b0-be71-44b822ea1550.png"></td>
     </tr>
-</table>
-<h2>💻Technical Skills  </h2>
+</table></details>
+<details><summary><h2>💻Technical Skills  </h2></summary>
 <table>
     <tr>
         <td>Python  </td>
@@ -67,7 +67,7 @@
         <!-- <td>Git  </td>
             <td><img  align="center" alt="Git" width="70" height="70"                                                               src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></td> --!>
      </tr>
- </table>
+ </table></details>
 <hr>
 <h2>:pushpin:Experience  </h2>
 <table>
@@ -75,7 +75,7 @@
         <td> Computer Vision </td>
         <td> <img align="center" alt="CompVision" width="100" height="100" src="https://user-images.githubusercontent.com/96379756/193036069-248d25a1-33ea-4f18-a2e2-8f4ae97251f6.png"> </td>
     </tr>
-<table>        
+<table>    
 <hr>
 <div align="center">
 <!-- STATS --!>
