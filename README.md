@@ -26,7 +26,12 @@
 <h2>🚧 Skill Set --></h2>
 <h2>⛑ Hard Skills</h2>
 <table>
-    
+    <tr>
+        <td>Mathematics</td>
+        <td><img align="center"  width="70" height="70" alt="math" src="https://user-images.githubusercontent.com/96379756/197255860-5544cee3-f010-41e4-a0e3-36cd6833f8a4.jpg"></td>
+        <td>Statistic</td>
+        <td><img align="center"  width="70" height="70" alt="stats" src="https://user-images.githubusercontent.com/96379756/197256274-02e375b4-7f11-42ef-9428-6d203893d7b6.jpg"></td>
+    </tr>
     <tr>
         <td>Object Oriented Programming</td>
         <td><img align="center"  width="70" height="70" alt="OOP" src="https://user-images.githubusercontent.com/96379756/197255538-8f8a6cae-6b96-42b0-be71-44b822ea1550.png"></td>
