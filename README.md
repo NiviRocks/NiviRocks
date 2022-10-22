@@ -2,7 +2,7 @@
     <body >
 <h1 align ="center" >RESUME </h1>
 <hr><hr>
-<h3 align="center" >Aspiring Data Scientist 📈| Pursuing B.Tech. Computer Science Engineering 💻 | Diploma Level in BS Online Degree, IITM | Learning ML 📌 | Novel Lover 📚 | Animal Lover 🐶 </h3>
+<h3 align="center" >Aspiring Data Scientist 📈| Pursuing B.Tech. Computer Science Engineering 💻 | B.S. Dual Degree in Data-Science and Programming, IITM 🎓 | Novel Lover 📚 | Animal Lover 🐶 </h3>
 <hr><hr>
 <!-- BANNER --!>
 <img height="350" width="1000" alt="banner" src= "https://user-images.githubusercontent.com/96379756/169536609-a31233da-5983-493a-80db-7d3f5d908b7d.png"><hr>
