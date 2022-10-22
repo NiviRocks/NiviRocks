@@ -64,6 +64,19 @@
             <td><img  align="center" alt="Git" width="70" height="70"                                                               src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></td> --!>
      </tr>
  </table></details>
+<details><summary><h2>💻Soft Skills  </h2></summary>
+ <table>
+   <tr>
+        <td>Effective Communication </td>
+        <td> <img aling="center" alt="communication" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197330541-04c0830e-7f42-4752-b593-7eda81094855.jpg" /> </td>
+        <td>Team Work</td>
+        <td> <img aling="center" alt="Team" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197330605-e3344187-f36b-4814-b932-0b599df70935.jpg" /> </td>
+        <td>Critical Thinking</td>
+        <td> <img aling="center" alt="Critical Thinking" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197330670-00a2efbc-b2b5-4791-9990-5a995fcc76e4.png" /> </td>
+    </tr>
+   
+  </table>
+</details>
 <hr>
 <h2>:pushpin:Experience  </h2>
 <table>
