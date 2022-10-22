@@ -74,7 +74,16 @@
         <td>Critical Thinking</td>
         <td> <img aling="center" alt="Critical Thinking" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197330670-00a2efbc-b2b5-4791-9990-5a995fcc76e4.png" /> </td>
     </tr>
-   
+     <tr>
+        <td>Enthusiastic Learner </td>
+        <td>Work Under Pressure</td>
+        <td>Creative Thinking</td>
+    </tr>
+    <tr>
+        <td>Mental Flexibility </td>
+        <td>Leadership Skills</td>
+        <td>Anger Management</td>
+    </tr>
   </table>
 </details>
 <hr>
