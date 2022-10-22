@@ -14,15 +14,11 @@
 </div><hr>
 <h2>🔗 Links to Check Out </h2>
 <div aling="center">
-<a href="https://github.com/NiviRocks"><img src="https://user-images.githubusercontent.com/96379756/169337870-ee4488d5-dfd8-47ca-8d10-be7ff50b6d1a.png" height="30" width="10%"></a>
-&nbsp;
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="10%"></a>
-&nbsp;
-<a href="https://leetcode.com/Nibedita_Chakraborty/"><img src="https://user-images.githubusercontent.com/96379756/147282294-bbf07a45-353d-436b-9364-38af841647d7.png" height="30" width="10%"></a>
-&nbsp;
-<a href="https://www.codechef.com/users/nibedita_chk"><img src="https://user-images.githubusercontent.com/96379756/169338377-223ffa25-4eb9-48fb-a135-033c0740587d.jpg" height="30" width="10%"></a>
-&nbsp; </div><hr> 
-
+<img alt="LinkedIn URL" src="https://img.shields.io/twitter/url?color=blue&label=LinkedIn%20Page&logo=LinkedIn&url=https%3A%2F%2Fwww.linkedin.com%2F"> &nbsp;
+<img alt="LeetCode URL" src="https://img.shields.io/twitter/url?color=orange&label=LeetCode%20Profile&logo=LeetCode&logoColor=orange&style=plastic&url=https%3A%2F%2Fleetcode.com%2FNibedita_Chakraborty%2F"> &nbsp;
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=white&label=CodeChef%20Link&logo=CodeChef&style=flat-square&url=https%3A%2F%2Fwww.codechef.com%2Fusers%2Fnibedita_chk"> &nbsp; 
+<img alt="Github URL" src="https://img.shields.io/twitter/url?label=Github%20Profile&logo=github&style=social&url=https%3A%2F%2Fgithub.com%2FNiviRocks"> &nbsp;
+</div><hr> 
 <h2>🚧 Skill Set </h2>
 <details><summary><h2>⛑ Hard Skills</h2></summary>
 <table>
