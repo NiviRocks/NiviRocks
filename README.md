@@ -71,19 +71,19 @@
  <table>
    <tr>
         <td>Effective Communication </td>
-        <td> <img aling="center" alt="communication" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197330541-04c0830e-7f42-4752-b593-7eda81094855.jpg" /> </td>
+        <td> <img align="center" alt="communication" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197330541-04c0830e-7f42-4752-b593-7eda81094855.jpg" /> </td>
         <td>Team Work</td>
-        <td> <img aling="center" alt="Team" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197330605-e3344187-f36b-4814-b932-0b599df70935.jpg" /> </td>
+        <td> <img align="center" alt="Team" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197330605-e3344187-f36b-4814-b932-0b599df70935.jpg" /> </td>
         <td>Critical Thinking</td>
-        <td> <img aling="center" alt="Critical Thinking" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197330670-00a2efbc-b2b5-4791-9990-5a995fcc76e4.png" /> </td>
+        <td> <img align="center" alt="Critical Thinking" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197330670-00a2efbc-b2b5-4791-9990-5a995fcc76e4.png" /> </td>
     </tr>
      <tr>
         <td>Enthusiastic Learner </td>
-        <td> <img aling="center" alt="Enthusiastic Learner" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197577427-e81f73b3-6f95-4e16-bfd9-a1b2e900f573.jpg" /> 
+        <td> <img align="center" alt="Enthusiastic Learner" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197577427-e81f73b3-6f95-4e16-bfd9-a1b2e900f573.jpg" /> 
         <td>Work Under Pressure</td>
-        <td> <img aling="center" alt=">Work Under Pressure" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197578004-335ff3f8-25df-4353-88c5-c561f3bb53ae.jpg" /> </td>
+        <td> <img align="center" alt="Work Under Pressure" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197578004-335ff3f8-25df-4353-88c5-c561f3bb53ae.jpg" /> </td>
         <td>Creative Thinking</td>
-        <td> <img aling="center" alt="Creative Thinking" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197578181-e7fb56c6-cfe3-4efb-9f80-400d09528638.jpg" /> </td>
+        <td> <img align="center" alt="Creative Thinking" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197578181-e7fb56c6-cfe3-4efb-9f80-400d09528638.jpg" /> </td>
     </tr>
     <tr>
         <td>Mental Flexibility </td>
