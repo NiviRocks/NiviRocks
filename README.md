@@ -79,8 +79,11 @@
     </tr>
      <tr>
         <td>Enthusiastic Learner </td>
+        <td> <img aling="center" alt="Enthusiastic Learner" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197577427-e81f73b3-6f95-4e16-bfd9-a1b2e900f573.jpg" /> 
         <td>Work Under Pressure</td>
+        <td> <img aling="center" alt=">Work Under Pressure" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197578004-335ff3f8-25df-4353-88c5-c561f3bb53ae.jpg" /> </td>
         <td>Creative Thinking</td>
+        <td> <img aling="center" alt="Creative Thinking" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197578181-e7fb56c6-cfe3-4efb-9f80-400d09528638.jpg" /> </td>
     </tr>
     <tr>
         <td>Mental Flexibility </td>
