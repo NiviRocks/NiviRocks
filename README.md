@@ -20,6 +20,7 @@
 <img alt="Github URL" src="https://img.shields.io/twitter/url?label=Github%20Profile&logo=github&style=social&url=https%3A%2F%2Fgithub.com%2FNiviRocks"> &nbsp;
 </div><hr> 
 <h2>🚧 Skill Set </h2>
+<!-- HARD SKILLS --!>
 <details><summary><h2>⛑ Hard Skills</h2></summary>
 <table>
     <tr>
@@ -33,6 +34,7 @@
         <td><img align="center"  width="70" height="70" alt="OOP" src="https://user-images.githubusercontent.com/96379756/197255538-8f8a6cae-6b96-42b0-be71-44b822ea1550.png"></td>
     </tr>
 </table></details>
+<!-- TECHNICAL SKILLS--!>
 <details><summary><h2>💻Technical Skills  </h2></summary>
 <table>
     <tr>
@@ -64,6 +66,7 @@
             <td><img  align="center" alt="Git" width="70" height="70"                                                               src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></td> --!>
      </tr>
  </table></details>
+<!-- SOFT SKILLS --!>
 <details><summary><h2>💻Soft Skills  </h2></summary>
  <table>
    <tr>
