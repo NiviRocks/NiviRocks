@@ -93,11 +93,13 @@
   </table>
 </details>
 <hr>
-<h2>:pushpin:Experience  </h2>
+<h2> 📌Experience  </h2>
 <table>
     <tr> 
         <td> Computer Vision </td>
         <td> <img align="center" alt="CompVision" width="100" height="100" src="https://user-images.githubusercontent.com/96379756/193036069-248d25a1-33ea-4f18-a2e2-8f4ae97251f6.png"> </td>
+        <td> Remote Sensing </td>
+        <td> <img align="center" alt="Remote Sensing" width="100" height="100" src="https://user-images.githubusercontent.com/96379756/197579319-d682530a-d38c-4903-897b-051e7f42a801.jpg"> </td>
     </tr>
 <table>    
 <hr>
