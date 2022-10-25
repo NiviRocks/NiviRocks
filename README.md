@@ -93,8 +93,12 @@
     </tr>
     <tr>
         <td>Mental Flexibility </td>
+        <td> <img align="center" alt="Mental Flexibility" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197867519-9f7859fa-9bc8-4d30-a54e-6e4dddfc6e42.jpg" /> </td>
         <td>Leadership Skills</td>
+        <td> <img align="center" alt="Leadership Skill" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197867704-ca1cb304-5d86-45e8-a8c1-997e9cbae34f.jpg" /> </td>
         <td>Anger Management</td>
+        <td> <img align="center" alt="Anger Management" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197868568-e7942e40-0fea-4414-a420-a8e0911c05a8.png" /> </td>
+
     </tr>
   </table>
 </details>
