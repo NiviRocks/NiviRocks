@@ -67,42 +67,35 @@
         <td>R Programming [Learning]</td>
         <td><img align="center"  width="70" height="70" alt="r prog" src="https://user-images.githubusercontent.com/96379756/147038105-5900bfd8-4550-4c6c-8f44-b09b3aa00baf.jpg"></td>
     </tr>
-    <tr>
-        <!-- <td>Git  </td>
-            <td><img  align="center" alt="Git" width="70" height="70"                                                               src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></td> --!>
-     </tr>
- </table></details>
+  </table></details>
 <!-- SOFT SKILLS --!>
-<details><summary><h2>💻Soft Skills  </h2></summary>
- <table>
-   <tr>
-        <td>Effective Communication </td>
-        <td> <img align="center" alt="communication" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197330541-04c0830e-7f42-4752-b593-7eda81094855.jpg" /> </td>
-        <td>Team Work</td>
-        <td> <img align="center" alt="Team" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197330605-e3344187-f36b-4814-b932-0b599df70935.jpg" /> </td>
-        <td>Critical Thinking</td>
-        <td> <img align="center" alt="Critical Thinking" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197330670-00a2efbc-b2b5-4791-9990-5a995fcc76e4.png" /> </td>
-    </tr>
-     <tr>
-        <td>Enthusiastic Learner </td>
-        <td> <img align="center" alt="Enthusiastic Learner" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197577427-e81f73b3-6f95-4e16-bfd9-a1b2e900f573.jpg" /> 
-        <td>Work Under Pressure</td>
-        <td> <img align="center" alt="Work Under Pressure" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197578004-335ff3f8-25df-4353-88c5-c561f3bb53ae.jpg" /> </td>
-        <td>Creative Thinking</td>
-        <td> <img align="center" alt="Creative Thinking" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197578181-e7fb56c6-cfe3-4efb-9f80-400d09528638.jpg" /> </td>
-    </tr>
-    <tr>
-        <td>Mental Flexibility </td>
-        <td> <img align="center" alt="Mental Flexibility" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197867519-9f7859fa-9bc8-4d30-a54e-6e4dddfc6e42.jpg" /> </td>
-        <td>Leadership Skills</td>
-        <td> <img align="center" alt="Leadership Skill" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197867704-ca1cb304-5d86-45e8-a8c1-997e9cbae34f.jpg" /> </td>
-        <td>Anger Management</td>
-        <td> <img align="center" alt="Anger Management" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197868568-e7942e40-0fea-4414-a420-a8e0911c05a8.png" /> </td>
-
-    </tr>
-  </table>
-</details>
-<hr>
+<details><summary><h2>💻Soft Skills</h2></summary>
+<table>
+<tr>
+    <td>Effective Communication </td>
+    <td> <img align="center" alt="communication" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197330541-04c0830e-7f42-4752-b593-7eda81094855.jpg" /> </td>
+    <td>Team Work</td>
+    <td> <img align="center" alt="Team" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197330605-e3344187-f36b-4814-b932-0b599df70935.jpg" /> </td>
+    <td>Critical Thinking</td>
+    <td> <img align="center" alt=" Thinking" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197868958-5e4d1414-7885-448a-abf9-8d6f5386fb26.jpg" /> </td>
+</tr>
+<tr>
+    <td>Enthusiastic Learner </td>
+    <td> <img align="center" alt="Enthusiastic Learner" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197577427-e81f73b3-6f95-4e16-bfd9-a1b2e900f573.jpg" /> 
+    <td>Work Under Pressure</td>
+    <td> <img align="center" alt="Work Under Pressure" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197578004-335ff3f8-25df-4353-88c5-c561f3bb53ae.jpg" /> </td>
+    <td>Creative Thinking</td>
+    <td> <img align="center" alt="Creative Thinking" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197578181-e7fb56c6-cfe3-4efb-9f80-400d09528638.jpg" /> </td>
+</tr>
+<tr>
+    <td>Mental Flexibility </td>
+    <td> <img align="center" alt="Mental Flexibility" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197867519-9f7859fa-9bc8-4d30-a54e-6e4dddfc6e42.jpg" /> </td>
+    <td>Leadership Skills</td>
+    <td> <img align="center" alt="Leadership Skill" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197867704-ca1cb304-5d86-45e8-a8c1-997e9cbae34f.jpg" /> </td>
+    <td>Anger Management</td>
+    <td> <img align="center" alt="Anger Management" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197868568-e7942e40-0fea-4414-a420-a8e0911c05a8.png" /> </td>
+</tr>
+</table> </details> <hr>
 <h2> 📌Experience  </h2>
 <table>
     <tr> 
