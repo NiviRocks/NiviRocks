@@ -37,7 +37,7 @@
         <td>Object Oriented Programming</td>
         <td><img align="center"  width="80" height="80" alt="OOP" src="https://user-images.githubusercontent.com/96379756/197255538-8f8a6cae-6b96-42b0-be71-44b822ea1550.png"></td>
         <td>Data Visualization</td>
-        <td><img align="center"  width="80" height="80" alt="Visualization" src="https://user-images.githubusercontent.com/96379756/197581300-dc56ad9c-96ad-4577-b4cf-4d9524e154e1.jpg"></td>
+        <td><img align="center"  width="80" height="80" alt="Visualization" src="https://user-images.githubusercontent.com/96379756/197866420-7af8f6ae-f5f1-4470-99b3-9d6fd1aaba21.jpg"></td>
     </tr>
 </table> </details>
 <!-- TECHNICAL SKILLS--!>
