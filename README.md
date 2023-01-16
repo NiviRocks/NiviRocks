@@ -109,6 +109,14 @@ Currently in 3rd year <br><hr>
     <td> <img align="center" alt="Mental Flexibility" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197867519-9f7859fa-9bc8-4d30-a54e-6e4dddfc6e42.jpg" /> </td>
 </tr>
 </table> </details> <hr>
+
+<div align="center"> 
+<!-- MOST USED LANGUAGE --!>
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&&langs_count=8&layout=compact&bg_color=3b0519&theme=jolly" /> &nbsp;
+<!-- ACTIVITY GRAPH --!>
+ <!-- <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=NiviRocks&theme=dracula&bg_color=3b0519" alt="NiviRocks" /> --!>
+</div> <hr>
+
 <h2> 📌Experience  </h2>
 <table>
     <tr> 
@@ -120,6 +128,7 @@ Currently in 3rd year <br><hr>
 <table>    
 <hr>
 <div align="center">
+
 <!-- STATS --!>
     <img width="47%" src="https://github-readme-stats.vercel.app/api?username=NiviRocks&theme=jolly&show_icons=true&count_private=true&bg_color=3b0519&icon_color=fef7f9"  /> &nbsp;
     <!-- STREAKS --!>
@@ -128,18 +137,12 @@ Currently in 3rd year <br><hr>
 <!-- <h2> 🏆 Trophies </h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiviRocks&theme=dark_lover&no-bg=true&column=6" alt="NiviRocks" /></a> </p> --!> 
 
-<div align="center"> 
-<!-- MOST USED LANGUAGE --!>
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&&langs_count=8&layout=compact&bg_color=3b0519&theme=jolly" /> &nbsp;
-<!-- ACTIVITY GRAPH --!>
- <!-- <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=NiviRocks&theme=dracula&bg_color=3b0519" alt="NiviRocks" /> --!>
-</div> <hr>
-
 </details><hr>
 <h3> 🔝 Top Repository </h3>
 <a href="https://github.com/NiviRocks/NiviRocks.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiviRocks&repo=NiviRocks.github.io&theme=synthwave&show_icons=true" />
 </a>
+
 <h2> Acknowledgements </h2><hr>
 
  - <a href="https://awesomeopensource.com/project/elangosundar/awesome-README-templates" > Awesome README Templates </a>
