@@ -24,20 +24,18 @@
 <details><summary><h2>⛑ Hard Skills</h2></summary>
 <table>
     <tr>
-        <td>Mathematics</td>
-        <td><img align="center"  width="80" height="80" alt="math" src="https://user-images.githubusercontent.com/96379756/197255860-5544cee3-f010-41e4-a0e3-36cd6833f8a4.jpg"></td>
-        <td>Calculus and Linear Algebra</td>
-        <td><img align="center"  width="80" height="80" alt="Calculus and Linear Algebra" src="https://user-images.githubusercontent.com/96379756/197581980-9dab311c-cce1-4d3c-a26f-ba8e4c5e9f9a.jpg"></td>
-        <td>Statistic</td>
-        <td><img align="center"  width="80" height="80" alt="stats" src="https://user-images.githubusercontent.com/96379756/197256274-02e375b4-7f11-42ef-9428-6d203893d7b6.jpg"></td>
-    </tr>
-    <tr>
         <td>Coding</td>
         <td><img align="center"  width="80" height="80" alt="Coding" src="https://user-images.githubusercontent.com/96379756/197580655-6b45e76c-53d7-4f8a-b951-6bcf1940ce0c.jpg"></td>
         <td>Object Oriented Programming</td>
         <td><img align="center"  width="80" height="80" alt="OOP" src="https://user-images.githubusercontent.com/96379756/197255538-8f8a6cae-6b96-42b0-be71-44b822ea1550.png"></td>
         <td>Data Visualization</td>
         <td><img align="center"  width="80" height="80" alt="Visualization" src="https://user-images.githubusercontent.com/96379756/197866420-7af8f6ae-f5f1-4470-99b3-9d6fd1aaba21.jpg"></td>
+    </tr>
+    <tr>
+        <td>Calculus and Linear Algebra</td>
+        <td><img align="center"  width="80" height="80" alt="Calculus and Linear Algebra" src="https://user-images.githubusercontent.com/96379756/197581980-9dab311c-cce1-4d3c-a26f-ba8e4c5e9f9a.jpg"></td>
+        <td>Statistic</td>
+        <td><img align="center"  width="80" height="80" alt="stats" src="https://user-images.githubusercontent.com/96379756/197256274-02e375b4-7f11-42ef-9428-6d203893d7b6.jpg"></td>
     </tr>
 </table> </details>
 <!-- TECHNICAL SKILLS--!>
