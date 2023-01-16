@@ -145,20 +145,7 @@ Currently in 3rd year <br><hr>
 <p>🎗Completed 10+2 level from Kendriya Vidyalaya No.1 Saltlake, Kolkata (year 2020) <br> 
     🎗Scored 94.6 % in 12th boards; CBSE Board.</p></details>
 <hr>
-<details><summary><h2>⚽ Hobbies </h2></summary>
-<h3> 📚 Novel Reading </h3>
-<h4>🎀My Best Reading Experiences </h4>
-<p>
-    1. Harry Potter Series by J.K.Rowling 🧙‍♂️ <br>
-    2. Sherlock Holmes by Athur Conan Doyle 🤠   <br>
-    3. Famous Five by Enid Blyton 🚲 <br>
-    4. To Kill a Mocking Bird by Harper Lee 🕊 <br>
-    5. Thousand Splendid Sun by Khaled Hossaini ☀ <br>
-    6. The Monk Who Sold His Ferrari by Robin Sharma🛶 <br>
-</p>
-<h3> 🎨Painting </h3>
-    1. Pencil Sketch<br>
-    2. Water Painting
+
 </details><hr>
 <h3> 🔝 Top Repository </h3>
 <a href="https://github.com/NiviRocks/NiviRocks.github.io">
