@@ -19,7 +19,28 @@
     <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=white&label=CodeChef%20Link&logo=CodeChef&style=flat-square&url=https%3A%2F%2Fwww.codechef.com%2Fusers%2Fnibedita_chk"> &nbsp; 
     <img alt="Github URL" src="https://img.shields.io/twitter/url?label=Github%20Profile&logo=github&style=social&url=https%3A%2F%2Fgithub.com%2FNiviRocks"> &nbsp;
 </div><hr> 
-<h2>🚧 Skill Set </h2>
+
+<details><summary>
+<h2>📖 EDUCATION </h2></summary>
+<hr>
+<img width="125" height="125" align="right" alt="msit logo" src="https://user-images.githubusercontent.com/96379756/146984366-a97d2415-8acd-42a2-8ccf-625090b161b0.png">
+<h3>B.Tech in Computer Science Engineering</h3>
+<p>
+🎗College: Meghand Saha Institute of Technology, MAKAUT, Kolkata, West Bengal.<br>
+    🎗Batch:-2020-2024</p>
+Currently in 3rd year <br><hr>
+<h3>B.Sc. In Data Science and Programming </h3>
+<img alt="iitm-logo" src="https://user-images.githubusercontent.com/96379756/146984436-13ba2603-6b8b-4c37-9659-c7b9857fa8ae.png">
+
+<p> Dual Degree from IIT Madras <br>🎗Completed Foundation Level with 8.8 CGPA, moving on to Diploma Level.</p>
+<hr><br>
+<img alt="kvs logo" height="125" width="150" align="right" src="https://user-images.githubusercontent.com/96379756/146983457-576dfcc0-c3b3-47b8-903f-20f445ca1ccf.jpg">
+<h3>Schooling</h3>
+
+<p>🎗Completed 10+2 level from Kendriya Vidyalaya No.1 Saltlake, Kolkata (year 2020) <br> 
+    🎗Scored 94.6 % in 12th boards; CBSE Board.</p></details>
+<hr>
+
 <!-- HARD SKILLS --!>
 <details><summary><h2>⛑ Hard Skills</h2></summary>
 <table>
@@ -38,6 +59,7 @@
         <td><img align="center"  width="80" height="80" alt="stats" src="https://user-images.githubusercontent.com/96379756/197256274-02e375b4-7f11-42ef-9428-6d203893d7b6.jpg"></td>
     </tr>
 </table> </details>
+
 <!-- TECHNICAL SKILLS--!>
 <details><summary><h2>💻Technical Skills  </h2></summary>
 <table>
@@ -66,6 +88,7 @@
     <td><img align="center"  width="70" height="70" alt="r prog" src="https://user-images.githubusercontent.com/96379756/147038105-5900bfd8-4550-4c6c-8f44-b09b3aa00baf.jpg"></td>
 </tr>
 </table></details>
+
 <!-- SOFT SKILLS --!>
 <details><summary><h2>💻Soft Skills</h2></summary>
 <table>
@@ -111,27 +134,6 @@
 <!-- ACTIVITY GRAPH --!>
  <!-- <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=NiviRocks&theme=dracula&bg_color=3b0519" alt="NiviRocks" /> --!>
 </div> <hr>
-<details><summary>
-<h2>📖 EDUCATION </h2></summary>
-<hr>
-<img width="200" height="200" align="right" alt="msit logo" src="https://user-images.githubusercontent.com/96379756/146984366-a97d2415-8acd-42a2-8ccf-625090b161b0.png">
-<h3>B.Tech in Computer Science Engineering</h3>
-
-<p>
-🎗Pursuing B.Tech in Computer Science Engineering from Meghand Saha Institute of Technology, Kolkata, West Bengal.<br>
-    🎗Batch:-2020-2024</p>
-Currently in 3rd year <br><hr>
-<h3>B.Sc. In Data Science and Programming (Duel Degree)</h3>
-<img alt="iitm-logo" src="https://user-images.githubusercontent.com/96379756/146984436-13ba2603-6b8b-4c37-9659-c7b9857fa8ae.png">
-
-<p>🎗Currently enrolled in B.Sc. In Data Science and Programming from IIT Madras.<br>🎗Completed Foundation Level with 8.8 CGPA, moving on to Diploma Level.</p>
-<hr><br>
-<img alt="kvs logo" height="150" width="200" align="right" src="https://user-images.githubusercontent.com/96379756/146983457-576dfcc0-c3b3-47b8-903f-20f445ca1ccf.jpg">
-<h3>Schooling</h3>
-
-<p>🎗Completed 10+2 level from Kendriya Vidyalaya No.1 Saltlake, Kolkata (year 2020) <br> 
-    🎗Scored 94.6 % in 12th boards; CBSE Board.</p></details>
-<hr>
 
 </details><hr>
 <h3> 🔝 Top Repository </h3>
