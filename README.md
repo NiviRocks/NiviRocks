@@ -57,7 +57,7 @@
 </tr>
 <tr>
     <td>Matlab </td>
-    <td><img  align="center" alt="GitHub" width="70" height="70" src="https://user-images.githubusercontent.com/96379756/147045628-c81a32e6-121d-4fb1-b5c9-703a64425849.png" /></td>
+    <td><img  align="center" alt="GitHub" width="70" height="70" src="https://user-images.githubusercontent.com/96379756/212703301-beb28260-9849-4a94-a0be-62eeb92c0fbb.jpg" /></td>
     <td>GitHub </td>
     <td><img  align="center" alt="GitHub" width="70" height="70" src="https://user-images.githubusercontent.com/96379756/147045628-c81a32e6-121d-4fb1-b5c9-703a64425849.png" /></td>
 </tr>
