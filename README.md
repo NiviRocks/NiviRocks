@@ -46,21 +46,20 @@
     <td><img align="center" width="70" height="70" alt="python" src="https://user-images.githubusercontent.com/96379756/147038109-5a4acce6-3b85-4eb9-b3b2-fdfb1f5fd81c.jpg"></td>
     <td>Java</td>
     <td><img  align="center" alt="Java"  width="70" height="70" src="https://user-images.githubusercontent.com/96379756/177587242-c31cf239-3878-447c-b9b9-7bb7f1a96c30.png" /></td>
-    <td>Linux</td>
-    <td><img  align="center" alt="Linux"  width="70" height="70" src="https://user-images.githubusercontent.com/96379756/197870655-3cda7dcc-d1ea-4259-88b0-ff960a211725.jpg" /></td>
-
+    <td>MySQL </td>
+    <td><img align="center" src="https://user-images.githubusercontent.com/96379756/147041148-d043a3d9-1588-418a-85c3-4a3a2472e480.png"  width="70" height="70"         alt="mysql" ></td>
 </tr>
 <tr>
     <td>HTML5 </td>
     <td><img align="center" src="https://user-images.githubusercontent.com/96379756/147041217-54a4d425-78ea-41c2-9f6a-249b867814e7.jpg"  width="70" height="70"         alt="html5"></td>
-    <td>RDBMS - MySQL </td>
-    <td><img align="center" src="https://user-images.githubusercontent.com/96379756/147041148-d043a3d9-1588-418a-85c3-4a3a2472e480.png"  width="70" height="70"         alt="mysql" ></td>
+    <td>Linux</td>
+    <td><img  align="center" alt="Linux"  width="70" height="70" src="https://user-images.githubusercontent.com/96379756/197870655-3cda7dcc-d1ea-4259-88b0-ff960a211725.jpg" /></td>
 </tr>
 <tr>
+    <td>Matlab </td>
+    <td><img  align="center" alt="GitHub" width="70" height="70" src="https://user-images.githubusercontent.com/96379756/147045628-c81a32e6-121d-4fb1-b5c9-703a64425849.png" /></td>
     <td>GitHub </td>
     <td><img  align="center" alt="GitHub" width="70" height="70" src="https://user-images.githubusercontent.com/96379756/147045628-c81a32e6-121d-4fb1-b5c9-703a64425849.png" /></td>
-    <td> Visual Studio Code </td>
-    <td><img align="center" alt="Visual Studio Code"  width="70" height="70"    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></td>
 </tr>
 <tr>
     <td>C Programming </td>
