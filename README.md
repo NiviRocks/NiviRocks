@@ -2,23 +2,23 @@
     <body >
 <h1 align ="center" >RESUME </h1>
 <hr><hr>
-<h3 align="center" >Aspiring Data Scientist 📈| Pursuing B.Tech. Computer Science Engineering 💻 | B.S. Dual Degree in Data-Science and Programming, IITM 🎓 | Novel Lover 📚 | Animal Lover 🐶 </h3>
+<h2 align="center" >Aspiring Data Scientist 📈| Pursuing B.Tech. Computer Science Engineering 💻 | B.S. Dual Degree in Data-Science and Programming, IITM 🎓 | Novel Lover 📚 | Animal Lover 🐶 </h2>
 <hr><hr>
-<!-- BANNER --!>
-<img height="350" width="1000" alt="banner" src= "https://user-images.githubusercontent.com/96379756/169536609-a31233da-5983-493a-80db-7d3f5d908b7d.png"><hr>
-<!-- SHEILDS --!>
-<div width="100%">
-    <img alt="GitHub" src="https://img.shields.io/github/license/NiviRocks/NiviRocks.github.io?color=ed367a&logo=Github&logoColor=%23fbd3e2"> 
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/NiviRocks/NiviRocks?color=grey&logo=github">
-    <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/NiviRocks/NiviRocks?logo=github">
-</div><hr>
-<h2>🔗 Links to Check Out </h2>
-<div aling="center">
-    <img alt="LinkedIn URL" src="https://img.shields.io/twitter/url?color=blue&label=LinkedIn%20Page&logo=LinkedIn&url=https%3A%2F%2Fwww.linkedin.com%2F"> &nbsp;
-    <img alt="LeetCode URL" src="https://img.shields.io/twitter/url?color=orange&label=LeetCode%20Profile&logo=LeetCode&logoColor=orange&style=plastic&url=https%3A%2F%2Fleetcode.com%2FNibedita_Chakraborty%2F"> &nbsp;
-    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=white&label=CodeChef%20Link&logo=CodeChef&style=flat-square&url=https%3A%2F%2Fwww.codechef.com%2Fusers%2Fnibedita_chk"> &nbsp; 
-    <img alt="Github URL" src="https://img.shields.io/twitter/url?label=Github%20Profile&logo=github&style=social&url=https%3A%2F%2Fgithub.com%2FNiviRocks"> &nbsp;
-</div><hr> 
+<!-- BANNER -->
+<img height="350" width="1000" alt="banner" src= "https://user-images.githubusercontent.com/96379756/169536609-a31233da-5983-493a-80db-7d3f5d908b7d.png"><br>
+<!-- SHEILDS -->
+<div align="center" width="100%">
+    <img alt="GitHub" src="https://img.shields.io/github/license/NiviRocks/NiviRocks?color=pink&logo=github&logoColor=pink&style=for-the-badge"> 
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/NiviRocks/NiviRocks?color=orange&logo=github&logoColor=orange&style=for-the-badge">
+    <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/NiviRocks/NiviRocks?color=purple&logo=github&logoColor=pink&style=for-the-badge">
+</div>
+<h3>🔗 Links to Check Out </h3>
+<p align="center" width="50%">
+    <img alt="LinkedIn URL" src="https://user-images.githubusercontent.com/96379756/212944356-115fac1d-f71b-4742-add6-6d2b60435205.png"> &nbsp;
+    <img alt="LeetCode URL" src="https://user-images.githubusercontent.com/96379756/212944944-3bfb229c-ac33-4baa-b748-282677d7e141.png"> &nbsp;
+    <img alt="Codechef URL" src="https://user-images.githubusercontent.com/96379756/212945404-641940fb-74f9-4376-859f-54ff04afea62.png"> &nbsp; 
+    <img alt="InterviewBit URL" src="https://user-images.githubusercontent.com/96379756/212946493-8d8b4fe5-5a4c-453a-8eb8-abc5353f777b.png"> &nbsp;
+</p><hr> 
 
 <details><summary>
 <h2>📖 EDUCATION </h2></summary>
@@ -41,7 +41,7 @@ Currently in 3rd year <br><hr>
     🎗Scored 94.6 % in 12th boards; CBSE Board.</p></details>
 <hr>
 
-<!-- HARD SKILLS --!>
+<!-- HARD SKILLS -->
 <details><summary><h2>⛑ Hard Skills</h2></summary>
 <table>
     <tr>
@@ -60,7 +60,7 @@ Currently in 3rd year <br><hr>
     </tr>
 </table> </details>
 
-<!-- TECHNICAL SKILLS--!>
+<!-- TECHNICAL SKILLS-->
 <details><summary><h2>💻Technical Skills  </h2></summary>
 <table>
 <tr>
@@ -89,7 +89,7 @@ Currently in 3rd year <br><hr>
 </tr>
 </table></details>
 
-<!-- SOFT SKILLS --!>
+<!-- SOFT SKILLS -->
 <details><summary><h2>💻Soft Skills</h2></summary>
 <table>
 <tr>
@@ -111,10 +111,10 @@ Currently in 3rd year <br><hr>
 </table> </details> <hr>
 
 <div align="center"> 
-<!-- MOST USED LANGUAGE --!>
+<!-- MOST USED LANGUAGE -->
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&&langs_count=8&layout=compact&bg_color=3b0519&theme=jolly" /> &nbsp;
-<!-- ACTIVITY GRAPH --!>
- <!-- <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=NiviRocks&theme=dracula&bg_color=3b0519" alt="NiviRocks" /> --!>
+<!-- ACTIVITY GRAPH -->
+ <!-- <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=NiviRocks&theme=dracula&bg_color=3b0519" alt="NiviRocks" /> -->
 </div> <hr>
 
 <h2> 📌Experience  </h2>
@@ -129,13 +129,13 @@ Currently in 3rd year <br><hr>
 <hr>
 <div align="center">
 
-<!-- STATS --!>
+<!-- STATS -->
     <img width="47%" src="https://github-readme-stats.vercel.app/api?username=NiviRocks&theme=jolly&show_icons=true&count_private=true&bg_color=3b0519&icon_color=fef7f9"  /> &nbsp;
-    <!-- STREAKS --!>
+<!-- STREAKS -->
      <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=NiviRocks&theme=dark&date_format=j%20M%5B%20Y%5D&ring=FE0C65&currStreakLabel=F0558E&background=3B0519" />
 </div> <hr> 
 <!-- <h2> 🏆 Trophies </h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiviRocks&theme=dark_lover&no-bg=true&column=6" alt="NiviRocks" /></a> </p> --!> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiviRocks&theme=dark_lover&no-bg=true&column=6" alt="NiviRocks" /></a> </p> --> 
 
 </details><hr>
 <h3> 🔝 Top Repository </h3>
