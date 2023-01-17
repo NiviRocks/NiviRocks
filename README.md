@@ -34,20 +34,17 @@
         
 <h2>📖 EDUCATION </h2>
 <img width="125" height="125" align="right" alt="msit logo" src="https://user-images.githubusercontent.com/96379756/146984366-a97d2415-8acd-42a2-8ccf-625090b161b0.png">
-<h3>B.Tech in Computer Science Engineering</h3>
+<h3>B.Tech in Computer Science Engineering|2020-2024</h3>
 <p>
-🎗College: Meghand Saha Institute of Technology, MAKAUT, Kolkata, West Bengal.<br>
-    🎗Batch:-2020-2024</p>
-Currently in 3rd year <br><br>
-        
-<img align="right" width="170" height="125" alt="iitm-logo" src="https://user-images.githubusercontent.com/96379756/146984436-13ba2603-6b8b-4c37-9659-c7b9857fa8ae.png">
-<h3>B.Sc. In Data Science and Programming </h3>
-<p> Dual Degree from IIT Madras <br>🎗Completed Foundation Level with 8.8 CGPA, moving on to Diploma Level.</p><br><br>
+🎗College: Meghand Saha Institute of Technology, MAKAUT, Kolkata, West Bengal.<br>🎗Currently in 3rd year </p><br>
 
-<img alt="kvs logo" height="100" width="125" align="right" src="https://user-images.githubusercontent.com/96379756/146983457-576dfcc0-c3b3-47b8-903f-20f445ca1ccf.jpg">
-<h3>Schooling</h3>
-<p>🎗Completed 10+2 level from Kendriya Vidyalaya No.1 Saltlake, Kolkata (year 2020) <br> 
-    🎗Scored 94.6 % in 12th boards; CBSE Board.</p><h2></h2>
+<img align="right" width="125" height="125" alt="iitm-logo" src="https://user-images.githubusercontent.com/96379756/212961594-3bdbad2a-cc6a-4318-b623-5620efce0613.png">
+<h3>B.Sc. In Data Science and Programming|Dual Enrolement Course </h3>
+<p> 🎗College: Indian Institute of Technology, Madras <br>🎗Completed Foundation Level with 8.8 CGPA, moving on to Diploma Level.</p><br>
+
+<img alt="kvs logo" width="125" height="125" align="right" src="https://user-images.githubusercontent.com/96379756/146983457-576dfcc0-c3b3-47b8-903f-20f445ca1ccf.jpg">
+<h3>Higher Secondary | CBSE Board | 2019-2020</h3>
+<p>🎗School:- Kendriya Vidyalaya No.1 Saltlake, Kolkata <br>🎗Scored 94.6 % .</p><h2></h2>
 
 <details><summary><h2>📈 Skills</h2></summary>
 <!-- HARD SKILLS -->
@@ -115,7 +112,7 @@ Currently in 3rd year <br><br>
     <td>Growth Mindset </td>
     <td> <img align="center" alt="Mental Flexibility" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197867519-9f7859fa-9bc8-4d30-a54e-6e4dddfc6e42.jpg" /> </td>
 </tr>
-</table> </details> 
+</table><br> </details> 
 
 <h2> 📌Experience  </h2>
 <table>
