@@ -1,48 +1,57 @@
 <html>
     <body >
 <h1 align ="center" >RESUME </h1>
-<hr><hr>
-<h2 align="center" >Aspiring Data Scientist 📈| Pursuing B.Tech. Computer Science Engineering 💻 | B.S. Dual Degree in Data-Science and Programming, IITM 🎓 | Novel Lover 📚 | Animal Lover 🐶 </h2>
-<hr><hr>
+<h2 align="center" >Aspiring Data Scientist 📈| Pursuing B.Tech. Computer Science Engineering 💻 | B.S. Dual Degree in Data-Science and Programming, IITM 🎓 | Novel Lover 📚 | Animal Lover 🐶 </h2><br>
 <!-- BANNER -->
 <img height="350" width="1000" alt="banner" src= "https://user-images.githubusercontent.com/96379756/169536609-a31233da-5983-493a-80db-7d3f5d908b7d.png"><br>
 <!-- SHEILDS -->
-<div align="center" width="100%">
+<p align="center" width="100%">
     <img alt="GitHub" src="https://img.shields.io/github/license/NiviRocks/NiviRocks?color=pink&logo=github&logoColor=pink&style=for-the-badge"> 
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/NiviRocks/NiviRocks?color=orange&logo=github&logoColor=orange&style=for-the-badge">
     <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/NiviRocks/NiviRocks?color=purple&logo=github&logoColor=pink&style=for-the-badge">
-</div>
-<h3>🔗 Links to Check Out </h3>
-<p align="center" width="50%">
-    <img alt="LinkedIn URL" src="https://user-images.githubusercontent.com/96379756/212944356-115fac1d-f71b-4742-add6-6d2b60435205.png"> &nbsp;
-    <img alt="LeetCode URL" src="https://user-images.githubusercontent.com/96379756/212944944-3bfb229c-ac33-4baa-b748-282677d7e141.png"> &nbsp;
-    <img alt="Codechef URL" src="https://user-images.githubusercontent.com/96379756/212945404-641940fb-74f9-4376-859f-54ff04afea62.png"> &nbsp; 
-    <img alt="InterviewBit URL" src="https://user-images.githubusercontent.com/96379756/212946493-8d8b4fe5-5a4c-453a-8eb8-abc5353f777b.png"> &nbsp;
-</p><hr> 
-
-<details><summary>
-<h2>📖 EDUCATION </h2></summary>
-<hr>
+</p><br>
+<h2>🔗 Links to Check Out </h2>
+<p align="center">
+    <img width="100" height="100" alt="LinkedIn URL" src="https://user-images.githubusercontent.com/96379756/212944356-115fac1d-f71b-4742-add6-6d2b60435205.png"> &nbsp;
+    <img width="100" height="100" alt="LeetCode URL" src="https://user-images.githubusercontent.com/96379756/212944944-3bfb229c-ac33-4baa-b748-282677d7e141.png"> &nbsp;
+    <img width="100" height="100" alt="Codechef URL" src="https://user-images.githubusercontent.com/96379756/212945404-641940fb-74f9-4376-859f-54ff04afea62.png"> &nbsp; 
+    <img width="100" height="100" alt="InterviewBit URL" src="https://user-images.githubusercontent.com/96379756/212946493-8d8b4fe5-5a4c-453a-8eb8-abc5353f777b.png"> &nbsp;
+</p><br>
+        
+<h2> 🔥 Streaks </h2>
+<p align="center"> 
+<!-- STREAKS -->
+    <img align="center" src="https://streak-stats.demolab.com/?user=NiviRocks&theme=yellowdark" /><br></p>
+<h2></h2><br>
+<p align="center"> 
+<!-- MOST USED LANGUAGE -->
+    <img width="42%" alt="streaks" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&layout=compact&theme=great-gatsby" /> &nbsp;
+<!-- STATS -->
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NiviRocks&show_icons=true&theme=great-gatsby"/> &nbsp;
+<!-- ACTIVITY GRAPH -->
+ <!-- <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=NiviRocks&theme=dracula&bg_color=3b0519" alt="NiviRocks" /> -->
+</p> <br>
+        
+<h2>📖 EDUCATION </h2>
 <img width="125" height="125" align="right" alt="msit logo" src="https://user-images.githubusercontent.com/96379756/146984366-a97d2415-8acd-42a2-8ccf-625090b161b0.png">
 <h3>B.Tech in Computer Science Engineering</h3>
 <p>
 🎗College: Meghand Saha Institute of Technology, MAKAUT, Kolkata, West Bengal.<br>
     🎗Batch:-2020-2024</p>
-Currently in 3rd year <br><hr>
+Currently in 3rd year <br><br>
+        
+<img align="right" width="170" height="125" alt="iitm-logo" src="https://user-images.githubusercontent.com/96379756/146984436-13ba2603-6b8b-4c37-9659-c7b9857fa8ae.png">
 <h3>B.Sc. In Data Science and Programming </h3>
-<img alt="iitm-logo" src="https://user-images.githubusercontent.com/96379756/146984436-13ba2603-6b8b-4c37-9659-c7b9857fa8ae.png">
+<p> Dual Degree from IIT Madras <br>🎗Completed Foundation Level with 8.8 CGPA, moving on to Diploma Level.</p><br><br>
 
-<p> Dual Degree from IIT Madras <br>🎗Completed Foundation Level with 8.8 CGPA, moving on to Diploma Level.</p>
-<hr><br>
-<img alt="kvs logo" height="125" width="150" align="right" src="https://user-images.githubusercontent.com/96379756/146983457-576dfcc0-c3b3-47b8-903f-20f445ca1ccf.jpg">
+<img alt="kvs logo" height="100" width="125" align="right" src="https://user-images.githubusercontent.com/96379756/146983457-576dfcc0-c3b3-47b8-903f-20f445ca1ccf.jpg">
 <h3>Schooling</h3>
-
 <p>🎗Completed 10+2 level from Kendriya Vidyalaya No.1 Saltlake, Kolkata (year 2020) <br> 
-    🎗Scored 94.6 % in 12th boards; CBSE Board.</p></details>
-<hr>
+    🎗Scored 94.6 % in 12th boards; CBSE Board.</p><h2></h2>
 
+<details><summary><h2>📈 Skills</h2></summary>
 <!-- HARD SKILLS -->
-<details><summary><h2>⛑ Hard Skills</h2></summary>
+<h2>⛑ Hard Skills</h2>
 <table>
     <tr>
         <td>Coding</td>
@@ -58,10 +67,9 @@ Currently in 3rd year <br><hr>
         <td>Statistic</td>
         <td><img align="center"  width="80" height="80" alt="stats" src="https://user-images.githubusercontent.com/96379756/197256274-02e375b4-7f11-42ef-9428-6d203893d7b6.jpg"></td>
     </tr>
-</table> </details>
-
+</table> 
 <!-- TECHNICAL SKILLS-->
-<details><summary><h2>💻Technical Skills  </h2></summary>
+<h2>💻Technical Skills  </h2>
 <table>
 <tr>
     <td>Python  </td>
@@ -87,10 +95,9 @@ Currently in 3rd year <br><hr>
     <td>R Programming [Learning]</td>
     <td><img align="center"  width="70" height="70" alt="r prog" src="https://user-images.githubusercontent.com/96379756/147038105-5900bfd8-4550-4c6c-8f44-b09b3aa00baf.jpg"></td>
 </tr>
-</table></details>
-
+</table>
 <!-- SOFT SKILLS -->
-<details><summary><h2>💻Soft Skills</h2></summary>
+<h2>💻Soft Skills</h2>
 <table>
 <tr>
     <td>Creative Thinking</td>
@@ -108,14 +115,7 @@ Currently in 3rd year <br><hr>
     <td>Growth Mindset </td>
     <td> <img align="center" alt="Mental Flexibility" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197867519-9f7859fa-9bc8-4d30-a54e-6e4dddfc6e42.jpg" /> </td>
 </tr>
-</table> </details> <hr>
-
-<div align="center"> 
-<!-- MOST USED LANGUAGE -->
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&&langs_count=8&layout=compact&bg_color=3b0519&theme=jolly" /> &nbsp;
-<!-- ACTIVITY GRAPH -->
- <!-- <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=NiviRocks&theme=dracula&bg_color=3b0519" alt="NiviRocks" /> -->
-</div> <hr>
+</table> </details> 
 
 <h2> 📌Experience  </h2>
 <table>
@@ -125,25 +125,15 @@ Currently in 3rd year <br><hr>
         <td> Remote Sensing </td>
         <td> <img align="center" alt="Remote Sensing" width="100" height="100" src="https://user-images.githubusercontent.com/96379756/197579319-d682530a-d38c-4903-897b-051e7f42a801.jpg"> </td>
     </tr>
-<table>    
-<hr>
-<div align="center">
-
-<!-- STATS -->
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=NiviRocks&theme=jolly&show_icons=true&count_private=true&bg_color=3b0519&icon_color=fef7f9"  /> &nbsp;
-<!-- STREAKS -->
-     <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=NiviRocks&theme=dark&date_format=j%20M%5B%20Y%5D&ring=FE0C65&currStreakLabel=F0558E&background=3B0519" />
-</div> <hr> 
-<!-- <h2> 🏆 Trophies </h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiviRocks&theme=dark_lover&no-bg=true&column=6" alt="NiviRocks" /></a> </p> --> 
-
-</details><hr>
+<table>  
+    
+<!--</details><hr>
 <h3> 🔝 Top Repository </h3>
 <a href="https://github.com/NiviRocks/NiviRocks.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiviRocks&repo=NiviRocks.github.io&theme=synthwave&show_icons=true" />
-</a>
+</a>-->
 
-<h2> Acknowledgements </h2><hr>
+<h2> Acknowledgements </h2>
 <ul>
  <li><a href="https://awesomeopensource.com/project/elangosundar/awesome-README-templates" > Awesome README Templates </a></li>
  <li><a href="https://github.com/matiassingers/awesome-readme">Awesome README</a></li>
@@ -153,7 +143,7 @@ Currently in 3rd year <br><hr>
  <li><a href="https://www.istockphoto.com/?esource=SEM_IS_GO_IN_Brand_iStock_EN&kw=IN_Misspellings-iStock_Exact_istok+photo_e&kwid=s_43700067636174159_dc&pcrid=562472910385&utm_medium=cpc&utm_source=GOOGLE&utm_campaign=IN_Brand_iStock_EN&utm_term=istok+photo&gclid=CjwKCAjw79iaBhAJEiwAPYwoCOwN5sHflEtScPxlbR8OS2U2XDVgjMlKROeCSPS7G659BhDDR7kqihoCKwAQAvD_BwE&gclsrc=aw.ds">Image Collection form istockphoto</a></li>
 </ul><hr>
 
-<h2>Authors</h2> <hr>
+<h2>Authors</h2> 
 <ul>
     <li><a href="https://www.github.com/NiviRocks"> @NiviRocks </a><li>
     <li>Licensed under [GNU General Public License v3](LICENSE)</li>
