@@ -15,7 +15,7 @@
     <a href="https://www.linkedin.com/in/nibedita-chakraborty-5992b4261/"><img width="100" height="100" alt="LinkedIn URL" src="https://user-images.githubusercontent.com/96379756/212944356-115fac1d-f71b-4742-add6-6d2b60435205.png"></a> &nbsp;
     <a href="https://leetcode.com/Nibedita_Chakraborty/"><img width="100" height="100" alt="LeetCode URL" src="https://user-images.githubusercontent.com/96379756/212944944-3bfb229c-ac33-4baa-b748-282677d7e141.png"></a> &nbsp;
     <a href="https://www.codechef.com/users/nivi6302"><img width="100" height="100" alt="Codechef URL" src="https://user-images.githubusercontent.com/96379756/212945404-641940fb-74f9-4376-859f-54ff04afea62.png"></a> &nbsp; 
-    <a href="https://www.interviewbit.com/practice/"><img width="100" height="100" alt="InterviewBit URL" src="https://user-images.githubusercontent.com/96379756/212946493-8d8b4fe5-5a4c-453a-8eb8-abc5353f777b.png"></a> &nbsp;
+    <a href="https://www.interviewbit.com/profile/nibedita-chakraborty/"><img width="100" height="100" alt="InterviewBit URL" src="https://user-images.githubusercontent.com/96379756/212946493-8d8b4fe5-5a4c-453a-8eb8-abc5353f777b.png"></a> &nbsp;
 </p><br>
         
 <h2> 🔥 Streaks </h2>
