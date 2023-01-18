@@ -140,12 +140,11 @@
  <li><a href="https://shields.io">Sheilds.io</a></li>
  <li><a href="https://github.com/anuraghazra/github-readme-stats">Github-readme-stats</a></li>
  <li><a href="https://www.istockphoto.com/?esource=SEM_IS_GO_IN_Brand_iStock_EN&kw=IN_Misspellings-iStock_Exact_istok+photo_e&kwid=s_43700067636174159_dc&pcrid=562472910385&utm_medium=cpc&utm_source=GOOGLE&utm_campaign=IN_Brand_iStock_EN&utm_term=istok+photo&gclid=CjwKCAjw79iaBhAJEiwAPYwoCOwN5sHflEtScPxlbR8OS2U2XDVgjMlKROeCSPS7G659BhDDR7kqihoCKwAQAvD_BwE&gclsrc=aw.ds">Image Collection form istockphoto</a></li>
-</ul><hr>
+</ul>
 
 <h2>Authors</h2> 
 <ul>
     <li><a href="https://www.github.com/NiviRocks"> @NiviRocks </a><li>
     <li>Licensed under [GNU General Public License v3](LICENSE)</li>
-<hr><hr>
     </body>
 </html>
