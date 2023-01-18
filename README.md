@@ -21,13 +21,15 @@
 <h2> 🔥 Streaks </h2>
 <p align="center"> 
 <!-- STREAKS -->
-    <img align="center" src="https://streak-stats.demolab.com/?user=NiviRocks&theme=yellowdark" /><br></p>
+    <img align="center" src="https://streak-stats.demolab.com/?user=NiviRocks&theme=yellowdark" ><br></p>
 <h2></h2><br>
 <p align="center"> 
 <!-- MOST USED LANGUAGE -->
-    <img width="42%" alt="streaks" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&layout=compact&theme=great-gatsby" /> &nbsp;
+    <!-- alt link https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&layout=compact&theme=great-gatsby-->
+    <img width="42%" alt="streaks" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&locale=en&custom_title=Top%20%Languages&layout=compact&theme=great-gatsby" > &nbsp;
 <!-- STATS -->
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NiviRocks&show_icons=true&theme=great-gatsby"/> &nbsp;
+    <!-- alt link https://github-readme-stats.vercel.app/api?username=NiviRocks&show_icons=true&theme=great-gatsby -->
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NiviRocks&show_icons=true&theme=great-gatsby&custom_title=Nibedita's%20%Github%20%Status" > &nbsp;
 <!-- ACTIVITY GRAPH -->
  <!-- <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=NiviRocks&theme=dracula&bg_color=3b0519" alt="NiviRocks" /> -->
 </p> <br>
