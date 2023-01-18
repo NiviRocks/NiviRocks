@@ -144,7 +144,7 @@
 
 <h2>Authors</h2> 
 <ul>
-    <li><a href="https://www.github.com/NiviRocks"> @NiviRocks </a><li>
+    <li><a href="https://www.github.com/NiviRocks"> @NiviRocks </a></li>
     <li>Licensed under [GNU General Public License v3](LICENSE)</li>
     </body>
 </html>
