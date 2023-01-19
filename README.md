@@ -1,6 +1,6 @@
 <html>
     <body >
-<h1 align ="center" >RESUME </h1>
+<h1 align ="center" >WELCOME TO MY GITHUB PROFILE </h1>
 <h2 align="center" >Aspiring Data Scientist 📈| B.Tech. Computer Science Engineering 💻 | B.S. Data-Science and Programming, IITM 🎓| Image Processing 🛰 | Machine Learning 🤖 </h2><br>
 <!-- BANNER -->
 <!-- alt https://user-images.githubusercontent.com/96379756/169536609-a31233da-5983-493a-80db-7d3f5d908b7d.png -->
