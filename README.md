@@ -64,7 +64,7 @@
     <tr>
         <td>Calculus and Linear Algebra</td>
         <td><img align="center"  width="80" height="80" alt="Calculus and Linear Algebra" src="https://user-images.githubusercontent.com/96379756/197581980-9dab311c-cce1-4d3c-a26f-ba8e4c5e9f9a.jpg"></td>
-        <td>Statistic</td>
+        <td>Statistic and Probability</td>
         <td><img align="center"  width="80" height="80" alt="stats" src="https://user-images.githubusercontent.com/96379756/197256274-02e375b4-7f11-42ef-9428-6d203893d7b6.jpg"></td>
     </tr>
 </table> 
