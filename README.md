@@ -39,7 +39,7 @@
 <img width="125" height="125" align="right" alt="msit logo" src="https://user-images.githubusercontent.com/96379756/146984366-a97d2415-8acd-42a2-8ccf-625090b161b0.png">
 <h3>B.Tech in Computer Science Engineering|2020-2024</h3>
 <p>
-🎗College: Meghand Saha Institute of Technology, MAKAUT, Kolkata, West Bengal.<br>🎗Currently in 3rd year </p><br>
+🎗College: Meghand Saha Institute of Technology, MAKAUT, Kolkata, West Bengal.<br>🎗Current CGPA: 9.17 <br> 🎗Currently in 3rd year </p><br>
 
 <img align="right" width="125" height="125" alt="iitm-logo" src="https://user-images.githubusercontent.com/96379756/212961594-3bdbad2a-cc6a-4318-b623-5620efce0613.png">
 <h3>B.Sc. In Data Science and Programming|Dual Enrolement Course </h3>
