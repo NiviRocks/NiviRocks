@@ -20,20 +20,20 @@
         </p><br>
 
         <h2> 🔥 Streaks </h2>
-        <p align="center"> 
-        <!-- STREAKS -->
-            <img align="center" src="https://streak-stats.demolab.com/?user=NiviRocks&theme=yellowdark" ><br></p>
+            <p align="center"> 
+            <!-- STREAKS -->
+                <img align="center" src="https://streak-stats.demolab.com/?user=NiviRocks&theme=yellowdark" ><br></p>
         <h2></h2><br>
-        <p align="center"> 
-        <!-- MOST USED LANGUAGE -->
-            <!-- alt link https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&layout=compact&theme=great-gatsby-->
-            <img width="42%" alt="streaks" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&locale=en&custom_title=Top%20%Languages&layout=compact&theme=great-gatsby" > &nbsp;
-        <!-- STATS -->
-            <!-- alt link https://github-readme-stats.vercel.app/api?username=NiviRocks&show_icons=true&theme=great-gatsby -->
-            <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NiviRocks&show_icons=true&theme=great-gatsby&custom_title=Nibedita's%20%Github%20%Status" > &nbsp;
-        <!-- ACTIVITY GRAPH -->
-         <!-- <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=NiviRocks&theme=dracula&bg_color=3b0519" alt="NiviRocks" /> -->
-        </p> <br>
+            <p align="center"> 
+            <!-- MOST USED LANGUAGE -->
+                <!-- alt link https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&layout=compact&theme=great-gatsby-->
+                <img width="42%" alt="streaks" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&locale=en&custom_title=Top%20%Languages&layout=compact&theme=great-gatsby" > &nbsp;
+            <!-- STATS -->
+                <!-- alt link https://github-readme-stats.vercel.app/api?username=NiviRocks&show_icons=true&theme=great-gatsby -->
+                <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NiviRocks&show_icons=true&theme=great-gatsby&custom_title=Nibedita's%20%Github%20%Status" > &nbsp;
+            <!-- ACTIVITY GRAPH -->
+             <!-- <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=NiviRocks&theme=dracula&bg_color=3b0519" alt="NiviRocks" /> -->
+            </p> <br>
 
         <h2>📖 EDUCATION </h2>
             <img width="125" height="125" align="right" alt="msit logo" src="https://user-images.githubusercontent.com/96379756/146984366-a97d2415-8acd-42a2-8ccf-625090b161b0.png">
@@ -52,80 +52,80 @@
             <details><summary><h2>📈 Skills</h2></summary>
             <!-- HARD SKILLS -->
             <h2>⛑ Hard Skills</h2>
-            <table>
-                <tr>
-                    <td>Coding</td>
-                    <td><img align="center"  width="80" height="80" alt="Coding" src="https://user-images.githubusercontent.com/96379756/197580655-6b45e76c-53d7-4f8a-b951-6bcf1940ce0c.jpg"></td>
-                    <td>Object Oriented Programming</td>
-                    <td><img align="center"  width="80" height="80" alt="OOP" src="https://user-images.githubusercontent.com/96379756/197255538-8f8a6cae-6b96-42b0-be71-44b822ea1550.png"></td>
-                    <td>Data Visualization</td>
-                    <td><img align="center"  width="80" height="80" alt="Visualization" src="https://user-images.githubusercontent.com/96379756/197866420-7af8f6ae-f5f1-4470-99b3-9d6fd1aaba21.jpg"></td>
-                </tr>
-                <tr>
-                    <td>Calculus and Linear Algebra</td>
-                    <td><img align="center"  width="80" height="80" alt="Calculus and Linear Algebra" src="https://user-images.githubusercontent.com/96379756/197581980-9dab311c-cce1-4d3c-a26f-ba8e4c5e9f9a.jpg"></td>
-                    <td>Statistic and Probability</td>
-                    <td><img align="center"  width="80" height="80" alt="stats" src="https://user-images.githubusercontent.com/96379756/197256274-02e375b4-7f11-42ef-9428-6d203893d7b6.jpg"></td>
-                </tr>
-            </table> 
+                <table>
+                    <tr>
+                        <td>Coding</td>
+                        <td><img align="center"  width="80" height="80" alt="Coding" src="https://user-images.githubusercontent.com/96379756/197580655-6b45e76c-53d7-4f8a-b951-6bcf1940ce0c.jpg"></td>
+                        <td>Object Oriented Programming</td>
+                        <td><img align="center"  width="80" height="80" alt="OOP" src="https://user-images.githubusercontent.com/96379756/197255538-8f8a6cae-6b96-42b0-be71-44b822ea1550.png"></td>
+                        <td>Data Visualization</td>
+                        <td><img align="center"  width="80" height="80" alt="Visualization" src="https://user-images.githubusercontent.com/96379756/197866420-7af8f6ae-f5f1-4470-99b3-9d6fd1aaba21.jpg"></td>
+                    </tr>
+                    <tr>
+                        <td>Calculus and Linear Algebra</td>
+                        <td><img align="center"  width="80" height="80" alt="Calculus and Linear Algebra" src="https://user-images.githubusercontent.com/96379756/197581980-9dab311c-cce1-4d3c-a26f-ba8e4c5e9f9a.jpg"></td>
+                        <td>Statistic and Probability</td>
+                        <td><img align="center"  width="80" height="80" alt="stats" src="https://user-images.githubusercontent.com/96379756/197256274-02e375b4-7f11-42ef-9428-6d203893d7b6.jpg"></td>
+                    </tr>
+                </table> 
             <!-- TECHNICAL SKILLS-->
             <h2>💻Technical Skills  </h2>
-            <table>
-            <tr>
-                <td>Python  </td>
-                <td><img align="center" width="70" height="70" alt="python" src="https://user-images.githubusercontent.com/96379756/147038109-5a4acce6-3b85-4eb9-b3b2-fdfb1f5fd81c.jpg"></td>
-                <td>HTML5 </td>
-                <td><img align="center" src="https://user-images.githubusercontent.com/96379756/147041217-54a4d425-78ea-41c2-9f6a-249b867814e7.jpg"  width="70" height="70"         alt="html5"></td>
-                <td>Linux</td>
-                <td><img  align="center" alt="Linux"  width="70" height="70" src="https://user-images.githubusercontent.com/96379756/197870655-3cda7dcc-d1ea-4259-88b0-ff960a211725.jpg" /></td>
-            </tr>
-            <tr>
-                <td>Java</td>
-                <td><img  align="center" alt="Java"  width="70" height="70" src="https://user-images.githubusercontent.com/96379756/177587242-c31cf239-3878-447c-b9b9-7bb7f1a96c30.png" /></td>
-                <td>MySQL </td>
-                <td><img align="center" src="https://user-images.githubusercontent.com/96379756/147041148-d043a3d9-1588-418a-85c3-4a3a2472e480.png"  width="70" height="70"         alt="mysql" ></td>
-                <td>GitHub </td>
-                <td><img  align="center" alt="GitHub" width="70" height="70" src="https://user-images.githubusercontent.com/96379756/147045628-c81a32e6-121d-4fb1-b5c9-703a64425849.png" /></td>
-            </tr>
-            <tr>
-                <td>Matlab </td>
-                <td><img  align="center" alt="GitHub" width="70" height="70" src="https://user-images.githubusercontent.com/96379756/212703301-beb28260-9849-4a94-a0be-62eeb92c0fbb.jpg" /></td>
-                <td>C Programming </td>
-                <td><img align="center" alt="C" width="70" height="70" src="https://user-images.githubusercontent.com/96379756/169338552-64ed131c-cda6-4b20-bb26-f69882aa92e2.png" /> </td>
-                <td>R Programming [Learning]</td>
-                <td><img align="center"  width="70" height="70" alt="r prog" src="https://user-images.githubusercontent.com/96379756/147038105-5900bfd8-4550-4c6c-8f44-b09b3aa00baf.jpg"></td>
-            </tr>
-            </table>
+                <table>
+                <tr>
+                    <td>Python  </td>
+                    <td><img align="center" width="70" height="70" alt="python" src="https://user-images.githubusercontent.com/96379756/147038109-5a4acce6-3b85-4eb9-b3b2-fdfb1f5fd81c.jpg"></td>
+                    <td>HTML5 </td>
+                    <td><img align="center" src="https://user-images.githubusercontent.com/96379756/147041217-54a4d425-78ea-41c2-9f6a-249b867814e7.jpg"  width="70" height="70"         alt="html5"></td>
+                    <td>Linux</td>
+                    <td><img  align="center" alt="Linux"  width="70" height="70" src="https://user-images.githubusercontent.com/96379756/197870655-3cda7dcc-d1ea-4259-88b0-ff960a211725.jpg" /></td>
+                </tr>
+                <tr>
+                    <td>Java</td>
+                    <td><img  align="center" alt="Java"  width="70" height="70" src="https://user-images.githubusercontent.com/96379756/177587242-c31cf239-3878-447c-b9b9-7bb7f1a96c30.png" /></td>
+                    <td>MySQL </td>
+                    <td><img align="center" src="https://user-images.githubusercontent.com/96379756/147041148-d043a3d9-1588-418a-85c3-4a3a2472e480.png"  width="70" height="70"         alt="mysql" ></td>
+                    <td>GitHub </td>
+                    <td><img  align="center" alt="GitHub" width="70" height="70" src="https://user-images.githubusercontent.com/96379756/147045628-c81a32e6-121d-4fb1-b5c9-703a64425849.png" /></td>
+                </tr>
+                <tr>
+                    <td>Matlab </td>
+                    <td><img  align="center" alt="GitHub" width="70" height="70" src="https://user-images.githubusercontent.com/96379756/212703301-beb28260-9849-4a94-a0be-62eeb92c0fbb.jpg" /></td>
+                    <td>C Programming </td>
+                    <td><img align="center" alt="C" width="70" height="70" src="https://user-images.githubusercontent.com/96379756/169338552-64ed131c-cda6-4b20-bb26-f69882aa92e2.png" /> </td>
+                    <td>R Programming [Learning]</td>
+                    <td><img align="center"  width="70" height="70" alt="r prog" src="https://user-images.githubusercontent.com/96379756/147038105-5900bfd8-4550-4c6c-8f44-b09b3aa00baf.jpg"></td>
+                </tr>
+                </table>
             <!-- SOFT SKILLS -->
             <h2>💻Soft Skills</h2>
-            <table>
-            <tr>
-                <td>Creative Thinking</td>
-                <td> <img align="center" alt="Creative Thinking" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197578181-e7fb56c6-cfe3-4efb-9f80-400d09528638.jpg" /> </td>
-                <td>Effective Communication </td>
-                <td> <img align="center" alt="communication" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197330541-04c0830e-7f42-4752-b593-7eda81094855.jpg" /> </td>
-                <td>Team Work</td>
-                <td> <img align="center" alt="Team" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197330605-e3344187-f36b-4814-b932-0b599df70935.jpg" /> </td>
-            </tr>
-            <tr>
-                <td>Enthusiastic Learner </td>
-                <td> <img align="center" alt="Enthusiastic Learner" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197577427-e81f73b3-6f95-4e16-bfd9-a1b2e900f573.jpg" /> 
-                <td>Work Under Pressure</td>
-                <td> <img align="center" alt="Work Under Pressure" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197578004-335ff3f8-25df-4353-88c5-c561f3bb53ae.jpg" /> </td>
-                <td>Growth Mindset </td>
-                <td> <img align="center" alt="Mental Flexibility" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197867519-9f7859fa-9bc8-4d30-a54e-6e4dddfc6e42.jpg" /> </td>
-            </tr>
-            </table><br> </details> 
+                <table>
+                <tr>
+                    <td>Creative Thinking</td>
+                    <td> <img align="center" alt="Creative Thinking" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197578181-e7fb56c6-cfe3-4efb-9f80-400d09528638.jpg" /> </td>
+                    <td>Effective Communication </td>
+                    <td> <img align="center" alt="communication" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197330541-04c0830e-7f42-4752-b593-7eda81094855.jpg" /> </td>
+                    <td>Team Work</td>
+                    <td> <img align="center" alt="Team" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197330605-e3344187-f36b-4814-b932-0b599df70935.jpg" /> </td>
+                </tr>
+                <tr>
+                    <td>Enthusiastic Learner </td>
+                    <td> <img align="center" alt="Enthusiastic Learner" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197577427-e81f73b3-6f95-4e16-bfd9-a1b2e900f573.jpg" /> 
+                    <td>Work Under Pressure</td>
+                    <td> <img align="center" alt="Work Under Pressure" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197578004-335ff3f8-25df-4353-88c5-c561f3bb53ae.jpg" /> </td>
+                    <td>Growth Mindset </td>
+                    <td> <img align="center" alt="Mental Flexibility" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197867519-9f7859fa-9bc8-4d30-a54e-6e4dddfc6e42.jpg" /> </td>
+                </tr>
+                </table><br> </details> 
 
             <h2> 📌Experience  </h2>
-            <table>
-                <tr> 
-                    <td> Computer Vision </td>
-                    <td> <img align="center" alt="CompVision" width="100" height="100" src="https://user-images.githubusercontent.com/96379756/193036069-248d25a1-33ea-4f18-a2e2-8f4ae97251f6.png"> </td>
-                    <td> Remote Sensing </td>
-                    <td> <img align="center" alt="Remote Sensing" width="100" height="100" src="https://user-images.githubusercontent.com/96379756/197579319-d682530a-d38c-4903-897b-051e7f42a801.jpg"> </td>
-                </tr>
-            <table>  
+                <table>
+                    <tr> 
+                        <td> Computer Vision </td>
+                        <td> <img align="center" alt="CompVision" width="100" height="100" src="https://user-images.githubusercontent.com/96379756/193036069-248d25a1-33ea-4f18-a2e2-8f4ae97251f6.png"> </td>
+                        <td> Remote Sensing </td>
+                        <td> <img align="center" alt="Remote Sensing" width="100" height="100" src="https://user-images.githubusercontent.com/96379756/197579319-d682530a-d38c-4903-897b-051e7f42a801.jpg"> </td>
+                    </tr>
+                <table>  
 
         <!--</details><hr>
         <h3> 🔝 Top Repository </h3>
