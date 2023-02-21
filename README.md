@@ -1,4 +1,7 @@
 <html>
+    <head>
+        <title> My Github Profile </title>
+    </head>
     <body>
         <div id="headng">
             <h1 align ="center" >WELCOME TO MY GITHUB PROFILE </h1>
