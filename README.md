@@ -1,46 +1,42 @@
 <html>
     <head>
-        <link rel="stylesheet" href="https://github.com/NiviRocks/NiviRocks/blob/main/style.css">
     </head>
     <body>
-        <div id="headng">
+        <div id="header" align="center">
             <h1>WELCOME TO MY GITHUB PROFILE </h1>
             <h2>Aspiring Data Scientist 📈| B.Tech. Computer Science Engineering 💻 | B.S. Data-Science and Programming, IITM 🎓| Image Processing 🛰 | Machine Learning 🤖 </h2><br>
         </div>
-        <div id="banner">
+        <div id="banner" align="center" width="100%">
             <!-- BANNER -->
             <!-- alt https://user-images.githubusercontent.com/96379756/169536609-a31233da-5983-493a-80db-7d3f5d908b7d.png -->
-            <img height="400" width="1000" alt="banner" src= "https://user-images.githubusercontent.com/96379756/213288640-584f0d23-95e7-4df5-8523-1b824b0f3127.png"><br>
+            <img height="400" width="1000" alt="banner" src= "https://user-images.githubusercontent.com/96379756/213288640-584f0d23-95e7-4df5-8523-1b824b0f3127.png">             <br><br>
             <!-- SHEILDS -->
             <img alt="GitHub" src="https://img.shields.io/github/license/NiviRocks/NiviRocks?color=pink&logo=github&logoColor=pink&style=for-the-badge"> 
             <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/NiviRocks/NiviRocks?color=orange&logo=github&logoColor=orange&style=for-the-badge">
             <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/NiviRocks/NiviRocks?color=purple&logo=github&logoColor=pink&style=for-the-badge"><br>
         </div>
-        <div id="links">
+        <div id="links" align="center">
         <h2>🔗 Links to Check Out </h2>
-            <p align="center">
-                <a href="https://www.linkedin.com/in/nibedita-chakraborty-5992b4261/"><img width="100" height="100" alt="LinkedIn URL" src="https://user-images.githubusercontent.com/96379756/212944356-115fac1d-f71b-4742-add6-6d2b60435205.png"></a> &nbsp;
-                <a href="https://leetcode.com/Nibedita_Chakraborty/"><img width="100" height="100" alt="LeetCode URL" src="https://user-images.githubusercontent.com/96379756/212944944-3bfb229c-ac33-4baa-b748-282677d7e141.png"></a> &nbsp;
-                <a href="https://www.codechef.com/users/nivi6302"><img width="100" height="100" alt="Codechef URL" src="https://user-images.githubusercontent.com/96379756/212945404-641940fb-74f9-4376-859f-54ff04afea62.png"></a> &nbsp; 
-                <a href="https://www.interviewbit.com/profile/nibedita-chakraborty/"><img width="100" height="100" alt="InterviewBit URL" src="https://user-images.githubusercontent.com/96379756/212946493-8d8b4fe5-5a4c-453a-8eb8-abc5353f777b.png"></a> &nbsp;
-            </p>
+            <a href="https://www.linkedin.com/in/nibedita-chakraborty-5992b4261/"><img width="100" height="100" alt="LinkedIn URL" src="https://user-images.githubusercontent.com/96379756/212944356-115fac1d-f71b-4742-add6-6d2b60435205.png"></a> &nbsp;
+            <a href="https://leetcode.com/Nibedita_Chakraborty/"><img width="100" height="100" alt="LeetCode URL" src="https://user-images.githubusercontent.com/96379756/212944944-3bfb229c-ac33-4baa-b748-282677d7e141.png"></a> &nbsp;
+            <a href="https://www.codechef.com/users/nivi6302"><img width="100" height="100" alt="Codechef URL" src="https://user-images.githubusercontent.com/96379756/212945404-641940fb-74f9-4376-859f-54ff04afea62.png"></a> &nbsp; 
+            <a href="https://www.interviewbit.com/profile/nibedita-chakraborty/"><img width="100" height="100" alt="InterviewBit URL" src="https://user-images.githubusercontent.com/96379756/212946493-8d8b4fe5-5a4c-453a-8eb8-abc5353f777b.png"></a> &nbsp;
+            <br>
         </div>
-        <div id="activity">
-            <h2> 🔥 Streaks </h2>
-                <p align="center"> 
-                <!-- STREAKS -->
-                    <img align="center" src="https://streak-stats.demolab.com/?user=NiviRocks&theme=yellowdark" ></p>
-                <h2></h2><br>
-                <p align="center"> 
-                <!-- MOST USED LANGUAGE -->
-                    <!-- alt link https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&layout=compact&theme=great-gatsby-->
-                    <img width="42%" alt="streaks" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&locale=en&custom_title=Top%20%Languages&layout=compact&theme=great-gatsby" > &nbsp;
-                <!-- STATS -->
-                    <!-- alt link https://github-readme-stats.vercel.app/api?username=NiviRocks&show_icons=true&theme=great-gatsby -->
-                    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NiviRocks&show_icons=true&theme=great-gatsby&custom_title=Nibedita's%20%Github%20%Status" > &nbsp;
-                <!-- ACTIVITY GRAPH -->
-                 <!-- <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=NiviRocks&theme=dracula&bg_color=3b0519" alt="NiviRocks" /> -->
-                </p> <br>
+        <div id="activity" align="center">
+            <h2 align="left"> 🔥 Streaks </h2>
+            <!-- STREAKS -->
+            <img align="center" src="https://streak-stats.demolab.com/?user=NiviRocks&theme=yellowdark" >
+            <h2></h2><br>
+            <!-- MOST USED LANGUAGE -->
+            <!-- alt link https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&layout=compact&theme=great-gatsby-->
+            <img width="42%" alt="streaks" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&locale=en&custom_title=Top%20%Languages&layout=compact&theme=great-gatsby" > &nbsp;
+            <!-- STATS -->
+            <!-- alt link https://github-readme-stats.vercel.app/api?username=NiviRocks&show_icons=true&theme=great-gatsby -->
+            <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NiviRocks&show_icons=true&theme=great-gatsby&custom_title=Nibedita's%20%Github%20%Status" > &nbsp;
+            <!-- ACTIVITY GRAPH -->
+            <!-- <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=NiviRocks&theme=dracula&bg_color=3b0519" alt="NiviRocks" /> -->
+            <br>
         </div>
         <div id="education">
             <h2>📖 EDUCATION </h2>
