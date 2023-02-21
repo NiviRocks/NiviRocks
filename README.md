@@ -1,6 +1,5 @@
 <html>
     <head>
-        <title> My Github Profile </title>
     </head>
     <body>
         <div id="headng">
