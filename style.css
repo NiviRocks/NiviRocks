@@ -1,5 +1,7 @@
 #heading{
   text-align: "center";
+}
+#banner{
   display: flex;
   justify-content: center;  
 }
