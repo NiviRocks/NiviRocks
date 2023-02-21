@@ -1,38 +1,45 @@
 <html>
     <body>
-        <h1 align ="center" >WELCOME TO MY GITHUB PROFILE </h1>
-        <h2 align="center" >Aspiring Data Scientist 📈| B.Tech. Computer Science Engineering 💻 | B.S. Data-Science and Programming, IITM 🎓| Image Processing 🛰 | Machine Learning 🤖 </h2><br>
-        <!-- BANNER -->
-        <!-- alt https://user-images.githubusercontent.com/96379756/169536609-a31233da-5983-493a-80db-7d3f5d908b7d.png -->
-        <p align="center"><img height="400" width="1000" alt="banner" src= "https://user-images.githubusercontent.com/96379756/213288640-584f0d23-95e7-4df5-8523-1b824b0f3127.png"></p><br>
-        <!-- SHEILDS -->
-        <p align="center" width="100%">
-            <img alt="GitHub" src="https://img.shields.io/github/license/NiviRocks/NiviRocks?color=pink&logo=github&logoColor=pink&style=for-the-badge"> 
-            <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/NiviRocks/NiviRocks?color=orange&logo=github&logoColor=orange&style=for-the-badge">
-            <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/NiviRocks/NiviRocks?color=purple&logo=github&logoColor=pink&style=for-the-badge">
-        </p><br>
+        <div id="headng">
+            <h1 align ="center" >WELCOME TO MY GITHUB PROFILE </h1>
+            <h2 align="center" >Aspiring Data Scientist 📈| B.Tech. Computer Science Engineering 💻 | B.S. Data-Science and Programming, IITM 🎓| Image Processing 🛰 | Machine Learning 🤖 </h2><br>
+            <!-- BANNER -->
+            <!-- alt https://user-images.githubusercontent.com/96379756/169536609-a31233da-5983-493a-80db-7d3f5d908b7d.png -->
+            <p align="center"><img height="400" width="1000" alt="banner" src= "https://user-images.githubusercontent.com/96379756/213288640-584f0d23-95e7-4df5-8523-1b824b0f3127.png"></p><br>
+            <!-- SHEILDS -->
+            <p align="center" width="100%">
+                <img alt="GitHub" src="https://img.shields.io/github/license/NiviRocks/NiviRocks?color=pink&logo=github&logoColor=pink&style=for-the-badge"> 
+                <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/NiviRocks/NiviRocks?color=orange&logo=github&logoColor=orange&style=for-the-badge">
+                <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/NiviRocks/NiviRocks?color=purple&logo=github&logoColor=pink&style=for-the-badge">
+            </p><br>
+        </div>
+        <div id="links">
         <h2>🔗 Links to Check Out </h2>
-        <p align="center">
-            <a href="https://www.linkedin.com/in/nibedita-chakraborty-5992b4261/"><img width="100" height="100" alt="LinkedIn URL" src="https://user-images.githubusercontent.com/96379756/212944356-115fac1d-f71b-4742-add6-6d2b60435205.png"></a> &nbsp;
-            <a href="https://leetcode.com/Nibedita_Chakraborty/"><img width="100" height="100" alt="LeetCode URL" src="https://user-images.githubusercontent.com/96379756/212944944-3bfb229c-ac33-4baa-b748-282677d7e141.png"></a> &nbsp;
-            <a href="https://www.codechef.com/users/nivi6302"><img width="100" height="100" alt="Codechef URL" src="https://user-images.githubusercontent.com/96379756/212945404-641940fb-74f9-4376-859f-54ff04afea62.png"></a> &nbsp; 
-            <a href="https://www.interviewbit.com/profile/nibedita-chakraborty/"><img width="100" height="100" alt="InterviewBit URL" src="https://user-images.githubusercontent.com/96379756/212946493-8d8b4fe5-5a4c-453a-8eb8-abc5353f777b.png"></a> &nbsp;
-        </p>
-        <h2> 🔥 Streaks </h2>
-            <p align="center"> 
-            <!-- STREAKS -->
-                <img align="center" src="https://streak-stats.demolab.com/?user=NiviRocks&theme=yellowdark" ></p>
-            <h2></h2><br>
-            <p align="center"> 
-            <!-- MOST USED LANGUAGE -->
-                <!-- alt link https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&layout=compact&theme=great-gatsby-->
-                <img width="42%" alt="streaks" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&locale=en&custom_title=Top%20%Languages&layout=compact&theme=great-gatsby" > &nbsp;
-            <!-- STATS -->
-                <!-- alt link https://github-readme-stats.vercel.app/api?username=NiviRocks&show_icons=true&theme=great-gatsby -->
-                <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NiviRocks&show_icons=true&theme=great-gatsby&custom_title=Nibedita's%20%Github%20%Status" > &nbsp;
-            <!-- ACTIVITY GRAPH -->
-             <!-- <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=NiviRocks&theme=dracula&bg_color=3b0519" alt="NiviRocks" /> -->
-            </p> <br>
+            <p align="center">
+                <a href="https://www.linkedin.com/in/nibedita-chakraborty-5992b4261/"><img width="100" height="100" alt="LinkedIn URL" src="https://user-images.githubusercontent.com/96379756/212944356-115fac1d-f71b-4742-add6-6d2b60435205.png"></a> &nbsp;
+                <a href="https://leetcode.com/Nibedita_Chakraborty/"><img width="100" height="100" alt="LeetCode URL" src="https://user-images.githubusercontent.com/96379756/212944944-3bfb229c-ac33-4baa-b748-282677d7e141.png"></a> &nbsp;
+                <a href="https://www.codechef.com/users/nivi6302"><img width="100" height="100" alt="Codechef URL" src="https://user-images.githubusercontent.com/96379756/212945404-641940fb-74f9-4376-859f-54ff04afea62.png"></a> &nbsp; 
+                <a href="https://www.interviewbit.com/profile/nibedita-chakraborty/"><img width="100" height="100" alt="InterviewBit URL" src="https://user-images.githubusercontent.com/96379756/212946493-8d8b4fe5-5a4c-453a-8eb8-abc5353f777b.png"></a> &nbsp;
+            </p>
+        </div>
+        <div id="activity">
+            <h2> 🔥 Streaks </h2>
+                <p align="center"> 
+                <!-- STREAKS -->
+                    <img align="center" src="https://streak-stats.demolab.com/?user=NiviRocks&theme=yellowdark" ></p>
+                <h2></h2><br>
+                <p align="center"> 
+                <!-- MOST USED LANGUAGE -->
+                    <!-- alt link https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&layout=compact&theme=great-gatsby-->
+                    <img width="42%" alt="streaks" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiviRocks&locale=en&custom_title=Top%20%Languages&layout=compact&theme=great-gatsby" > &nbsp;
+                <!-- STATS -->
+                    <!-- alt link https://github-readme-stats.vercel.app/api?username=NiviRocks&show_icons=true&theme=great-gatsby -->
+                    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NiviRocks&show_icons=true&theme=great-gatsby&custom_title=Nibedita's%20%Github%20%Status" > &nbsp;
+                <!-- ACTIVITY GRAPH -->
+                 <!-- <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=NiviRocks&theme=dracula&bg_color=3b0519" alt="NiviRocks" /> -->
+                </p> <br>
+        </div>
+        <div id="education">
             <h2>📖 EDUCATION </h2>
                 <img width="125" height="125" align="right" alt="msit logo" src="https://user-images.githubusercontent.com/96379756/146984366-a97d2415-8acd-42a2-8ccf-625090b161b0.png">
                 <h3>B.Tech in Computer Science Engineering|2020-2024</h3>
@@ -44,6 +51,8 @@
                     <img alt="kvs logo" width="125" height="125" align="right" src="https://user-images.githubusercontent.com/96379756/146983457-576dfcc0-c3b3-47b8-903f-20f445ca1ccf.jpg">
                 <h3>Higher Secondary | CBSE Board | 2019-2020</h3>
                     <p>🎗School:- Kendriya Vidyalaya No.1 Saltlake, Kolkata <br>🎗Scored 94.6 % .</p><h2></h2>
+        </div>
+        <div id="skills">
             <details><summary><h2>📈 Skills</h2></summary>
                 <!-- HARD SKILLS -->
                 <h2>⛑ Hard Skills</h2>
@@ -111,6 +120,8 @@
                         <td> <img align="center" alt="Mental Flexibility" width="80" height="80" src="https://user-images.githubusercontent.com/96379756/197867519-9f7859fa-9bc8-4d30-a54e-6e4dddfc6e42.jpg" /> </td>
                     </tr>
                     </table><br> </details> 
+        </div>
+        <div id="experience">
             <h2> 📌Experience  </h2>
                 <table>
                     <tr> 
@@ -120,24 +131,27 @@
                         <td> <img align="center" alt="Remote Sensing" width="100" height="100" src="https://user-images.githubusercontent.com/96379756/197579319-d682530a-d38c-4903-897b-051e7f42a801.jpg"> </td>
                     </tr>
                 <table>  
+        </div>
         <!--</details><hr>
         <h3> 🔝 Top Repository </h3>
         <a href="https://github.com/NiviRocks/NiviRocks.github.io">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiviRocks&repo=NiviRocks.github.io&theme=synthwave&show_icons=true" />
         </a>-->
-        <h2> Acknowledgements </h2>
-            <ul>
-             <li><a href="https://awesomeopensource.com/project/elangosundar/awesome-README-templates" > Awesome README Templates </a></li>
-             <li><a href="https://github.com/matiassingers/awesome-readme">Awesome README</a></li>
-             <li><a href="https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project" > How to write a Good readme</a></li>
-             <li><a href="https://shields.io">Sheilds.io</a></li>
-             <li><a href="https://github.com/anuraghazra/github-readme-stats">Github-readme-stats</a></li>
-             <li><a href="https://www.istockphoto.com/?esource=SEM_IS_GO_IN_Brand_iStock_EN&kw=IN_Misspellings-iStock_Exact_istok+photo_e&kwid=s_43700067636174159_dc&pcrid=562472910385&utm_medium=cpc&utm_source=GOOGLE&utm_campaign=IN_Brand_iStock_EN&utm_term=istok+photo&gclid=CjwKCAjw79iaBhAJEiwAPYwoCOwN5sHflEtScPxlbR8OS2U2XDVgjMlKROeCSPS7G659BhDDR7kqihoCKwAQAvD_BwE&gclsrc=aw.ds">Image Collection form istockphoto</a></li>
-            </ul>
-        <h2>Authors</h2> 
-            <ul>
-                <li><a href="https://www.github.com/NiviRocks"> @NiviRocks </a></li>
-                <li>Licensed under <a href="https://github.com/NiviRocks/NiviRocks/blob/main/LICENSE">GNU General Public License v3</a></li>
-            </ul>
+        <div id="footer">          
+            <h2> Acknowledgements </h2>
+                <ul>
+                 <li><a href="https://awesomeopensource.com/project/elangosundar/awesome-README-templates" > Awesome README Templates </a></li>
+                 <li><a href="https://github.com/matiassingers/awesome-readme">Awesome README</a></li>
+                 <li><a href="https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project" > How to write a Good readme</a></li>
+                 <li><a href="https://shields.io">Sheilds.io</a></li>
+                 <li><a href="https://github.com/anuraghazra/github-readme-stats">Github-readme-stats</a></li>
+                 <li><a href="https://www.istockphoto.com/?esource=SEM_IS_GO_IN_Brand_iStock_EN&kw=IN_Misspellings-iStock_Exact_istok+photo_e&kwid=s_43700067636174159_dc&pcrid=562472910385&utm_medium=cpc&utm_source=GOOGLE&utm_campaign=IN_Brand_iStock_EN&utm_term=istok+photo&gclid=CjwKCAjw79iaBhAJEiwAPYwoCOwN5sHflEtScPxlbR8OS2U2XDVgjMlKROeCSPS7G659BhDDR7kqihoCKwAQAvD_BwE&gclsrc=aw.ds">Image Collection form istockphoto</a></li>
+                </ul>
+            <h2>Authors</h2> 
+                <ul>
+                    <li><a href="https://www.github.com/NiviRocks"> @NiviRocks </a></li>
+                    <li>Licensed under <a href="https://github.com/NiviRocks/NiviRocks/blob/main/LICENSE">GNU General Public License v3</a></li>
+                </ul>
+        </div>
     </body>
 </html>
