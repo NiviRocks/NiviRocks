@@ -1,15 +1,16 @@
 <html>
     <head>
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <div id="headng">
-            <h1 align ="center" >WELCOME TO MY GITHUB PROFILE </h1>
-            <h2 align="center" >Aspiring Data Scientist 📈| B.Tech. Computer Science Engineering 💻 | B.S. Data-Science and Programming, IITM 🎓| Image Processing 🛰 | Machine Learning 🤖 </h2><br>
+            <h1>WELCOME TO MY GITHUB PROFILE </h1>
+            <h2>Aspiring Data Scientist 📈| B.Tech. Computer Science Engineering 💻 | B.S. Data-Science and Programming, IITM 🎓| Image Processing 🛰 | Machine Learning 🤖 </h2><br>
             <!-- BANNER -->
             <!-- alt https://user-images.githubusercontent.com/96379756/169536609-a31233da-5983-493a-80db-7d3f5d908b7d.png -->
-            <p align="center"><img height="400" width="1000" alt="banner" src= "https://user-images.githubusercontent.com/96379756/213288640-584f0d23-95e7-4df5-8523-1b824b0f3127.png"></p><br>
+            <p><img height="400" width="1000" alt="banner" src= "https://user-images.githubusercontent.com/96379756/213288640-584f0d23-95e7-4df5-8523-1b824b0f3127.png"></p><br>
             <!-- SHEILDS -->
-            <p align="center" width="100%">
+            <p width="100%">
                 <img alt="GitHub" src="https://img.shields.io/github/license/NiviRocks/NiviRocks?color=pink&logo=github&logoColor=pink&style=for-the-badge"> 
                 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/NiviRocks/NiviRocks?color=orange&logo=github&logoColor=orange&style=for-the-badge">
                 <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/NiviRocks/NiviRocks?color=purple&logo=github&logoColor=pink&style=for-the-badge">
