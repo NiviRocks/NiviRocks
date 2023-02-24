@@ -133,11 +133,13 @@
         </div>
         <div id="projects">
             <h2> 📐Projects and Repositories </h2>
+            <!--
             <ul>
                 <li> ISRO </li>
                 <li> MSIT </li>
                 <li> IITM </li>
             </ul>
+            -->
         </div>
         <!--</details><hr>
         <h3> 🔝 Top Repository </h3>
