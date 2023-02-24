@@ -131,26 +131,23 @@
                     </tr>
                 <table>  
         </div>
+        <!--
         <div id="projects">
             <h2> 📐Projects and Repositories </h2>
-            <!--
             <ul>
                 <li> ISRO </li>
                 <li> MSIT </li>
                 <li> IITM </li>
             </ul>
-            -->
         </div>
         <div id="publication">
             <h2> 📜Publications </h2>
-            <!--
             <ul>
                 <li> ISRO </li> <a href="link"> Check publication </a>
                 <li> MSIT </li> <a href="link"> Check publication </a>
                 <li> IITM </li> <a href="link"> Check publication </a>
             </ul>
-            -->
-        </div>
+        </div> -->
         <!--</details><hr>
         <h3> 🔝 Top Repository </h3>
         <a href="https://github.com/NiviRocks/NiviRocks.github.io">
